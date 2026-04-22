@@ -102,22 +102,22 @@
       {
         "icon": "TrendingUp",
         "title": "Splatoon Raiders Deep Cut Characters",
-        "description": "Deep Cut roles and character focus points"
+        "description": "Shiver, Frye, Big Man, and field crew roles across island raids"
       },
       {
         "icon": "Star",
         "title": "Splatoon Raiders Character Customization",
-        "description": "Avatar creation and customization focus checklist"
+        "description": "Mechanic creation, appearance options, and camp gear progression"
       },
       {
         "icon": "ClipboardCheck",
         "title": "Splatoon Raiders Weapons and Gadgets",
-        "description": "Combat loadout coverage for ink tools and gadgets"
+        "description": "Ink weapons, mechanical gadgets, and Exploration Bot support tools"
       },
       {
         "icon": "MessageCircle",
         "title": "Splatoon Raiders Spirhalite Islands",
-        "description": "Island exploration FAQ and destination notes"
+        "description": "Cyclone, tropical shores, landmarks, floating base, and island map clues"
       },
       {
         "icon": "Gamepad2",
@@ -402,136 +402,115 @@
     "lucidBlocksFarmingAndGrowth": {
       "title": "Splatoon Raiders Deep Cut Characters",
       "displayType": "mixedCards",
-      "intro": "Deep Cut attention is a major character-intent driver, so this section keeps each member focus clear and scannable.",
+      "intro": "Deep Cut is framed as a core expedition squad in Splatoon Raiders, and each member carries a distinct role across treasure-hunt runs on the Spirhalite Islands.",
       "sections": [
         {
-          "name": "Splatoon Raiders Deep Cut Team Role",
-          "description": "Deep Cut serves as an expedition partner layer that differentiates Raiders from mainline structure."
+          "name": "Splatoon Raiders Shiver",
+          "description": "Shiver joins the island expedition as one of the three core Deep Cut companions, keeping her cool-headed identity while appearing in a rougher, raid-ready look aboard the team base."
         },
         {
-          "name": "Splatoon Raiders Shiver Focus",
-          "description": "Track Shiver-specific presence, visual cues, and role clarity as new material arrives."
+          "name": "Splatoon Raiders Frye",
+          "description": "Frye keeps her high-energy personality in Splatoon Raiders while shifting into an expedition-ready role, with early footage positioning her as part of the team's scavenging and salvage-hunting tone."
         },
         {
-          "name": "Splatoon Raiders Frye Focus",
-          "description": "Track Frye-specific role and mission behavior highlights from trailers and official posts."
+          "name": "Splatoon Raiders Big Man",
+          "description": "Big Man remains the most recognizable silhouette in the crew and helps anchor a familiar team dynamic as Splatoon Raiders moves into a new island setting and adventure format."
         },
         {
-          "name": "Splatoon Raiders Big Man Focus",
-          "description": "Track Big Man support role and related amiibo momentum as launch approaches."
+          "name": "Splatoon Raiders Deep Cut Field Crew",
+          "description": "Splatoon Raiders positions Deep Cut as on-the-ground partners for treasure hunts and salvage runs, with one member able to accompany a raid through the Exploration Bot."
         }
       ],
       "growthMilestones": [
-        "Track Splatoon Raiders Deep Cut roster updates",
-        "Track Splatoon Raiders role-by-role character notes",
-        "Track Splatoon Raiders companion dynamics"
+        "Track Splatoon Raiders Shiver, Frye, and Big Man role reveals.",
+        "Follow Splatoon Raiders field-crew updates tied to Exploration Bot support.",
+        "Watch new Splatoon Raiders footage for character-specific expedition actions."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "Splatoon Raiders Character Customization",
       "displayType": "priorityCards",
-      "intro": "Character customization is a high-interest query, so this checklist prioritizes the details players want first.",
+      "intro": "The mechanic is a player-shaped lead in Splatoon Raiders, and official material ties character creation, appearance customization, and camp gear upgrades into one progression loop.",
       "priorities": [
         {
-          "name": "Splatoon Raiders Character Creator Basics",
+          "name": "Splatoon Raiders Mechanic Lead",
           "priority": "Essential",
-          "description": "Show what can be changed at character creation and what remains fixed."
+          "description": "You play as the mechanic, a new protagonist who works with Deep Cut across treasure-hunting and salvage-focused expeditions on the Spirhalite Islands."
         },
         {
-          "name": "Splatoon Raiders Appearance Options",
+          "name": "Splatoon Raiders Character Creation",
           "priority": "Essential",
-          "description": "Track visible customization ranges such as style choices surfaced in official footage."
+          "description": "Nintendo's trailer coverage explicitly confirms character creation as a front-facing feature, making player-defined identity part of the core setup."
         },
         {
-          "name": "Splatoon Raiders Outfit and Gear Visuals",
+          "name": "Splatoon Raiders Appearance Customization",
           "priority": "Essential",
-          "description": "Document outfit and equipment presentation linked to player identity in runs."
+          "description": "Official product pages confirm that you can customize your character appearance, supporting personal expression within a story-driven island adventure."
         },
         {
-          "name": "Splatoon Raiders Update Watchlist",
+          "name": "Splatoon Raiders Camp and Gear Upgrades",
           "priority": "Important",
-          "description": "Maintain a running list for newly confirmed customization categories after each update."
+          "description": "Splatoon Raiders sends loot back to camp for gear upgrades before the next run, linking customization to both visual style and long-term progression."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "Splatoon Raiders Weapons and Gadgets",
       "displayType": "achievementGrid",
-      "intro": "This section organizes known combat tools into practical groups so players can scan loadout options quickly.",
+      "intro": "Nintendo positions Splatoon Raiders loadouts around ink-flinging weapons, mechanical gadgets, and Exploration Bot support, with reveal footage also showing a rough makeshift field-weapon style.",
       "groups": [
         {
-          "name": "Splatoon Raiders Ink Weapons",
+          "name": "Splatoon Raiders Weapons and Combat Core",
           "achievements": [
             {
-              "title": "Splatoon Raiders Main Weapon Types",
-              "description": "Core ink-based weapon classes shown in official gameplay footage."
+              "title": "Splatoon Raiders Ink-Splattering Weapons",
+              "description": "Official store pages describe the core kit as ink-splattering weapons, keeping classic ink movement and combat pressure central to each raid."
             },
             {
-              "title": "Splatoon Raiders Close-Range Pressure",
-              "description": "Short-range options for aggressive control in tight fights."
-            },
-            {
-              "title": "Splatoon Raiders Mid-Range Control",
-              "description": "Balanced options for sustained engagements in mixed terrain."
+              "title": "Splatoon Raiders Makeshift Field Weapon",
+              "description": "Reveal footage shows the mechanic carrying an improvised-looking weapon, reinforcing a salvage-ready, expedition-built combat style."
             }
           ]
         },
         {
-          "name": "Splatoon Raiders Gadgets",
+          "name": "Splatoon Raiders Gadgets and Bot Support",
           "achievements": [
             {
-              "title": "Splatoon Raiders Utility Gadgets",
-              "description": "Tools that support exploration and combat pacing beyond direct weapon fire."
+              "title": "Splatoon Raiders Mechanical Gadgets",
+              "description": "Official descriptions pair weapons with mechanical gadgets, making support gear a major pillar of the Splatoon Raiders adventure loop."
             },
             {
-              "title": "Splatoon Raiders Exploration Gadgets",
-              "description": "Gadget use for traversal, scouting, and expedition efficiency."
-            },
-            {
-              "title": "Splatoon Raiders Combat Gadgets",
-              "description": "Gadget use for crowd handling and threat control during raids."
-            }
-          ]
-        },
-        {
-          "name": "Splatoon Raiders Loadout Planning",
-          "achievements": [
-            {
-              "title": "Splatoon Raiders Solo Setup",
-              "description": "Loadout priorities for single-player-focused progression routes."
-            },
-            {
-              "title": "Splatoon Raiders Co-Op Setup",
-              "description": "Loadout balance points when preparing for cooperative sessions."
-            },
-            {
-              "title": "Splatoon Raiders Upgrade Sequence",
-              "description": "Order early upgrades for smoother progression and survivability."
+              "title": "Splatoon Raiders Exploration Bot",
+              "description": "The Exploration Bot accompanies raids with a Deep Cut member, helping fend off enemies and collect loot while strengthening the expedition identity."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Splatoon Raiders Spirhalite Islands FAQ",
+      "title": "Splatoon Raiders Spirhalite Islands",
       "displayType": "accordion",
-      "intro": "These FAQs cover the most common location and exploration questions about Splatoon Raiders Spirhalite Islands.",
+      "intro": "The Splatoon Raiders Spirhalite Islands combine storm danger, tropical coastlines, salt-cut landmarks, and a floating camp that anchors each expedition run.",
       "faqs": [
         {
-          "question": "What are the Splatoon Raiders Spirhalite Islands?",
-          "answer": "The Spirhalite Islands are the main adventure setting where raids, exploration, and treasure recovery take place."
+          "question": "What is the Splatoon Raiders cyclone over the Spirhalite Islands?",
+          "answer": "The Splatoon Raiders reveal frames a massive cyclone with a mysterious glow as the setting's signature landmark and central visual hook."
         },
         {
-          "question": "How does Splatoon Raiders use island runs?",
-          "answer": "Each run pushes you into combat and discovery loops before returning to camp to regroup and upgrade."
+          "question": "How do Splatoon Raiders tropical shores shape exploration?",
+          "answer": "Splatoon Raiders presents sandy beaches, palm trees, and mangrove-lined zones that make island routes feel brighter and more open than urban battle spaces."
         },
         {
-          "question": "Why are Splatoon Raiders island maps important?",
-          "answer": "Island map context helps players plan routes, understand danger zones, and prioritize exploration targets."
+          "question": "What defines Splatoon Raiders salt-cut landmarks?",
+          "answer": "Splatoon Raiders spotlights halite-like crystal formations and giant grinder-shaped structures that give the islands a distinctive environmental identity."
         },
         {
-          "question": "Will Splatoon Raiders add more island details over time?",
-          "answer": "New trailer beats and official updates are expected to expand what is publicly known about island layout and activities."
+          "question": "How does the Splatoon Raiders floating base support raids?",
+          "answer": "Splatoon Raiders uses a cobbled-together floating base as the team's social and logistical hub between island expeditions."
+        },
+        {
+          "question": "Why does the Splatoon Raiders island map matter?",
+          "answer": "Splatoon Raiders promotional map shots reinforce a multi-island setting and help frame the adventure as a navigable expedition zone."
         }
       ]
     },
