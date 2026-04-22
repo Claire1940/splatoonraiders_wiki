@@ -122,22 +122,22 @@
       {
         "icon": "Gamepad2",
         "title": "Splatoon Raiders Salmonids and Enemies",
-        "description": "Enemy encounter FAQ and combat expectations"
+        "description": "Confirmed Salmonid threat, enemy families, and combat loop breakdown"
       },
       {
         "icon": "Settings",
         "title": "Splatoon Raiders Companion Bot",
-        "description": "Exploration Bot support role and utility summary"
+        "description": "Exploration Bot role, Deep Cut pairing, and raid support details"
       },
       {
         "icon": "Clock",
         "title": "Splatoon Raiders File Size and Specs",
-        "description": "Storage, platform, and play mode specifications"
+        "description": "System specs, languages, player counts, and Nintendo Switch Online notes"
       },
       {
         "icon": "Shield",
         "title": "Splatoon Raiders Amiibo",
-        "description": "Deep Cut amiibo lineup and release details"
+        "description": "Shiver, Frye, Big Man figure details with official listing links"
       }
     ]
   },
@@ -515,106 +515,226 @@
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Splatoon Raiders Salmonids and Enemies FAQ",
-      "displayType": "accordion",
-      "intro": "Enemy-focused FAQs help players quickly understand how Splatoon Raiders pressure works in combat encounters.",
-      "faqs": [
+      "title": "Splatoon Raiders Salmonids and Enemies",
+      "displayType": "cards",
+      "intro": "Splatoon Raiders enemy guidance brings together confirmed Nintendo details and Salmonid context from the wider Splatoon series, so new and returning players can read encounter coverage quickly.",
+      "items": [
         {
-          "question": "Who are the main Splatoon Raiders enemy threats?",
-          "answer": "Current official messaging highlights Salmonids as core hostile pressure during expedition combat."
+          "title": "Splatoon Raiders confirms Salmonids as the enemy faction",
+          "eyebrow": "Confirmed",
+          "description": "Official Nintendo store listings frame raids around fighting enemy Salmonids while hunting treasure across the Spirhalite Islands.",
+          "bullets": [
+            "Nintendo US states you fight waves of enemy Salmonids while raiding the islands for treasure.",
+            "Nintendo AU describes splatting large enemy groups in this single-player-focused Splatoon adventure.",
+            "Official regional pages consistently place this combat on the Spirhalite Islands."
+          ]
         },
         {
-          "question": "How do Splatoon Raiders enemy encounters shape gameplay?",
-          "answer": "Enemy waves reinforce the risk-reward loop by forcing resource decisions while protecting loot runs."
+          "title": "Splatoon Raiders ties into known Salmonid series context",
+          "eyebrow": "Series Context",
+          "description": "Inkipedia describes Salmonids as an amphibious salmon-like species and the main antagonists of Salmon Run in Splatoon 2 and Splatoon 3.",
+          "bullets": [
+            "Series role: main antagonists and enemies of Salmon Run.",
+            "Species note: amphibious salmon-like enemies.",
+            "Main ink color references include dark green in Splatoon 2 and dark teal in Splatoon 3."
+          ]
         },
         {
-          "question": "Are Splatoon Raiders enemies only close-range threats?",
-          "answer": "Encounters are designed around mixed pressure, so loadouts should account for multiple threat types."
+          "title": "Splatoon Raiders discussions use established Salmonid families",
+          "eyebrow": "Enemy Types",
+          "description": "Returning players can quickly parse reveal coverage by using the standard Salmonid family groupings already known across the series.",
+          "bullets": [
+            "Lesser Salmonids: Chum, Smallfry, Cohock, Snatcher.",
+            "Boss Salmonids: Steelhead, Steel Eel, Scrapper, Stinger, Maws, Drizzler, Flyfish, Fish Stick, Flipper-Flopper, Slammin' Lid, Big Shot.",
+            "Occurrence-specific Salmonids: Goldie, Griller, Chinook, Mothership, Mudmouth.",
+            "King Salmonids: Cohozuna, Horrorboros, Megalodontia, plus Triumvirate references."
+          ]
         },
         {
-          "question": "What should new players prepare for in Splatoon Raiders fights?",
-          "answer": "Prioritize survivability, gadget utility, and coordinated movement before optimizing for speed."
+          "title": "Splatoon Raiders combat answers Salmonid pressure with tools",
+          "eyebrow": "Combat Loop",
+          "description": "Nintendo positions the mechanic, gadgets, ink weapons, and Deep Cut bot support as the response kit for Salmonid-heavy raid encounters.",
+          "bullets": [
+            "Playable role: the mechanic.",
+            "Core kit: mechanical gadgets and ink-focused weapons.",
+            "Support layer: one Deep Cut member raids with you through the Exploration Bot setup."
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Splatoon Raiders Companion Bot",
-      "displayType": "settingCards",
-      "intro": "The companion system pairs a Deep Cut member with an Exploration Bot role that supports both combat flow and raid utility.",
-      "settings": [
+      "displayType": "accordion",
+      "intro": "Splatoon Raiders presents the Exploration Bot as a core raid partner tied directly to combat, loot handling, and the Deep Cut field role during island expeditions.",
+      "items": [
         {
-          "name": "Splatoon Raiders Exploration Bot Core Role",
-          "type": "Companion Role",
-          "description": "The bot supports expedition stability by assisting with combat pressure and run continuity."
+          "title": "What is the Splatoon Raiders bot called?",
+          "content": "Nintendo UK identifies the companion as the Exploration Bot and frames it as a powerful construct that travels with the mechanic on raids.",
+          "bullets": [
+            "Official name: Exploration Bot.",
+            "Official role framing: a powerful construct.",
+            "Travels with the mechanic during island raid runs."
+          ]
         },
         {
-          "name": "Splatoon Raiders Companion Combat Support",
-          "type": "Combat Utility",
-          "description": "Companion support helps manage enemy pressure so players can maintain momentum during raids."
+          "title": "What does the Splatoon Raiders Exploration Bot do?",
+          "content": "Nintendo states the Exploration Bot helps fend off enemies and gather loot, making it a practical support system in the raid loop.",
+          "bullets": [
+            "Combat support during enemy encounters.",
+            "Loot gathering help during treasure runs.",
+            "Integrated directly into the hunt-for-treasure gameplay cycle."
+          ]
         },
         {
-          "name": "Splatoon Raiders Companion Exploration Support",
-          "type": "Traversal Utility",
-          "description": "Companion behavior contributes to safer routing and clearer progression through island objectives."
+          "title": "How does Splatoon Raiders connect the bot to Deep Cut?",
+          "content": "Official store text explains that one Deep Cut member raids alongside you in a powerful bot, linking companion support to the trio's active field presence.",
+          "bullets": [
+            "A Deep Cut member accompanies the mechanic during raids.",
+            "Deep Cut stays active beyond camp setup scenes.",
+            "Bot support is a key part of how the trio influences gameplay."
+          ]
         },
         {
-          "name": "Splatoon Raiders Companion Team Dynamics",
-          "type": "Squad Interaction",
-          "description": "Deep Cut presence and bot support together define a distinct cooperative-feel layer inside the adventure."
+          "title": "How does the Splatoon Raiders bot fit progression?",
+          "content": "Nintendo UK ties the companion into a repeat cycle of raiding, returning loot to camp, upgrading gear, and launching the next expedition.",
+          "bullets": [
+            "Raid, collect loot, return to camp, upgrade gear, and head out again.",
+            "The game remains single-player-focused while supporting up to three additional players online or local wireless.",
+            "This keeps the bot inside the long-term salvage progression rhythm."
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Splatoon Raiders File Size and Specs",
-      "displayType": "timeline",
-      "intro": "Specs information is a launch-critical checklist for storage planning, play mode expectations, and hardware alignment.",
-      "entries": [
+      "displayType": "table",
+      "intro": "Splatoon Raiders practical setup details are collected in one specs table so players can confirm storage, play options, language support, and online requirements quickly.",
+      "specs": [
         {
-          "title": "Splatoon Raiders Platform",
-          "type": "Nintendo Switch 2",
-          "description": "Splatoon Raiders is listed as a Nintendo Switch 2 title on official product pages."
+          "spec": "System",
+          "value": "Nintendo Switch 2"
         },
         {
-          "title": "Splatoon Raiders Estimated File Size",
-          "type": "Storage",
-          "description": "The current official listing highlights an estimated size of 20 GB."
+          "spec": "Release date",
+          "value": "July 23, 2026"
         },
         {
-          "title": "Splatoon Raiders Play Modes",
-          "type": "Mode Support",
-          "description": "Official listings include TV mode, Tabletop mode, and Handheld mode support details."
+          "spec": "Genre",
+          "value": "Action, Shooter"
         },
         {
-          "title": "Splatoon Raiders Player Count Specs",
-          "type": "Player Limits",
-          "description": "Official pages indicate solo focus plus local wireless and online multiplayer support ranges."
+          "spec": "Estimated file size",
+          "value": "20 GB"
+        },
+        {
+          "spec": "Local play",
+          "value": "1 player"
+        },
+        {
+          "spec": "Local wireless",
+          "value": "2 - 4 players"
+        },
+        {
+          "spec": "Online play",
+          "value": "2 - 4 players"
+        },
+        {
+          "spec": "Supported play modes",
+          "value": "TV Mode, Tabletop Mode, Handheld Mode"
+        },
+        {
+          "spec": "Nintendo Switch Online features",
+          "value": "Online Play, Save Data Cloud"
+        },
+        {
+          "spec": "Online membership requirement",
+          "value": "A paid Nintendo Switch Online membership is required for online play."
+        },
+        {
+          "spec": "Save Data Cloud note",
+          "value": "Save Data Cloud is supported, and Nintendo's AU page states a paid Nintendo Switch Online membership is required to use it."
+        },
+        {
+          "spec": "Local wireless setup note",
+          "value": "Nintendo UK states local wireless multiplayer requires one console and one software copy per player."
+        },
+        {
+          "spec": "Controller note",
+          "value": "Nintendo UK states multiplayer requires one compatible controller per player, and extra controllers may be needed."
+        },
+        {
+          "spec": "Storage note",
+          "value": "Nintendo UK notes extra storage may be required depending on hardware model and setup."
+        },
+        {
+          "spec": "Languages (US store listing)",
+          "value": "Japanese, British English, French, German, Italian, Spanish, Korean, Dutch, Simplified Chinese, Latin American Spanish, Canadian French, Traditional Chinese, American English"
+        },
+        {
+          "spec": "Languages (AU store listing)",
+          "value": "Japanese, English, French, German, Italian, Spanish, Korean, Dutch, Chinese (Simplified), Chinese (Traditional)"
+        },
+        {
+          "spec": "Languages (UK store listing)",
+          "value": "Japanese, English, Spanish, French, German, Italian, Dutch, Korean, Chinese"
+        },
+        {
+          "spec": "US rating",
+          "value": "ESRB: Fantasy Violence"
+        },
+        {
+          "spec": "Australia rating",
+          "value": "Mild themes, Violence, Online interactivity and chat"
+        },
+        {
+          "spec": "UK rating",
+          "value": "PEGI 7 (Fear, Violence)"
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Splatoon Raiders Amiibo",
-      "displayType": "steps",
-      "intro": "Amiibo interest is a strong evergreen driver, so this section keeps the Deep Cut lineup and release references easy to scan.",
-      "steps": [
+      "displayType": "cards",
+      "intro": "Splatoon Raiders amiibo tracking keeps the Deep Cut lineup, release timing, identifiers, and official product listings in one scan for collectors and players.",
+      "cards": [
         {
-          "title": "Track Splatoon Raiders Shiver Amiibo",
-          "description": "Follow official listing updates and release details for the Shiver figure in the Splatoon lineup."
+          "title": "Shiver (Splatoon Raiders)",
+          "eyebrow": "Deep Cut amiibo",
+          "description": "Shiver's new figure uses her Splatoon Raiders look for the Spirhalite Islands treasure-hunting adventure.",
+          "bullets": [
+            "Release date: July 23, 2026",
+            "Series listing: Splatoon Raiders",
+            "SKU: 125231",
+            "UPC: 00045496894658",
+            "Game note: Splatoon Raiders functionality details will be announced later"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-shiver-splatoon-series-125231/"
         },
         {
-          "title": "Track Splatoon Raiders Frye Amiibo",
-          "description": "Follow official listing updates and release details for the Frye figure in the Splatoon lineup."
+          "title": "Frye (Splatoon Raiders)",
+          "eyebrow": "Deep Cut amiibo",
+          "description": "Frye's new figure shows her Splatoon Raiders outfit and ties directly into the same Spirhalite Islands expedition.",
+          "bullets": [
+            "Release date: July 23, 2026",
+            "Series listing: Splatoon Raiders",
+            "SKU: 125230",
+            "UPC: 00045496894641",
+            "Game note: Splatoon Raiders functionality details will be announced later"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-frye-splatoon-series-125230/"
         },
         {
-          "title": "Track Splatoon Raiders Big Man Amiibo",
-          "description": "Follow official listing updates and release details for the Big Man figure in the Splatoon lineup."
-        },
-        {
-          "title": "Track Splatoon Raiders Amiibo Function Notes",
-          "description": "Keep gameplay effect notes updated as official functionality details are published."
-        },
-        {
-          "title": "Track Splatoon Raiders Amiibo Buying Options",
-          "description": "Use official Nintendo and approved retail channels to compare availability as launch approaches."
+          "title": "Big Man (Splatoon Raiders)",
+          "eyebrow": "Deep Cut amiibo",
+          "description": "Big Man's new figure gives the manta ray producer his Splatoon Raiders look for the treasure-hunting trip with Deep Cut.",
+          "bullets": [
+            "Release date: July 23, 2026",
+            "Series listing: Splatoon Raiders",
+            "SKU: 125232",
+            "UPC: 00045496894665",
+            "Game note: Splatoon Raiders functionality details will be announced later"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-big-man-splatoon-series-125232/"
         }
       ]
     }
@@ -642,7 +762,7 @@
       },
       {
         "question": "What are the key Splatoon Raiders modules on this homepage?",
-        "answer": "The homepage covers release date, trailers, gameplay, pre-order, pricing, co-op, story, characters, weapons, specs, and amiibo tracking."
+        "answer": "The Splatoon Raiders homepage covers release date, trailers, gameplay, pre-order, pricing, co-op, story, characters, weapons, specs, and amiibo tracking."
       },
       {
         "question": "Will Splatoon Raiders receive more official updates before launch?",

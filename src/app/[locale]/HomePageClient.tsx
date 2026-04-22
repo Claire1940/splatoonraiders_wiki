@@ -2,19 +2,16 @@
 
 import { useEffect, useState, Suspense, lazy } from 'react'
 import {
-  AlertTriangle,
   ArrowRight,
   BookOpen,
   Check,
   ChevronDown,
   ClipboardCheck,
-  Clock,
   Eye,
   ExternalLink,
   Gamepad2,
   Hammer,
   Home,
-  MessageCircle,
   Package,
   Settings,
   Sparkles,
@@ -177,7 +174,7 @@ export default function HomePageClient({
 
   // FAQ accordion states
   const [faqExpanded, setFaqExpanded] = useState<number | null>(null)
-  const [deckExpanded, setDeckExpanded] = useState<number | null>(null)
+  const [companionExpanded, setCompanionExpanded] = useState<number | null>(null)
 
   // Scroll reveal animation
   useEffect(() => {
@@ -325,10 +322,10 @@ export default function HomePageClient({
             {t.tools.cards.map((card: any, index: number) => {
               // 映射卡片索引到 section ID
               const sectionIds = [
-                'beginner-guide', 'apotheosis-crafting', 'tools-weapons', 'storage-inventory',
-                'qualia-base-building', 'world-regions', 'creatures-enemies', 'mobility-gear',
-                'farming-growth', 'best-early-unlocks', 'achievement-tracker', 'singleplayer-faq',
-                'steam-deck-controller', 'settings-accessibility', 'updates-patch-notes', 'crash-fix'
+                'release-date', 'trailer', 'gameplay-overview', 'pre-order-guide',
+                'price-and-editions', 'multiplayer-and-co-op', 'news-and-updates', 'story-and-setting',
+                'deep-cut-characters', 'character-customization', 'weapons-and-gadgets', 'spirhalite-islands',
+                'salmonids-and-enemies', 'companion-bot', 'file-size-and-specs', 'amiibo'
               ]
               const sectionId = sectionIds[index]
 
@@ -365,7 +362,7 @@ export default function HomePageClient({
       <AdBanner type="banner-300x250" adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250} />
 
       {/* Module 1: Beginner Guide */}
-      <section id="beginner-guide" className="scroll-mt-24 px-4 py-20">
+      <section id="release-date" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -419,7 +416,7 @@ export default function HomePageClient({
       <AdBanner type="banner-468x60" adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60} />
 
       {/* Module 2: Apotheosis Crafting */}
-      <section id="apotheosis-crafting" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="trailer" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksApotheosisCrafting']} locale={locale}>{t.modules.lucidBlocksApotheosisCrafting.title}</LinkedTitle></h2>
@@ -448,7 +445,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 3: Tools and Weapons */}
-      <section id="tools-weapons" className="scroll-mt-24 px-4 py-20">
+      <section id="gameplay-overview" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksToolsAndWeapons']} locale={locale}>{t.modules.lucidBlocksToolsAndWeapons.title}</LinkedTitle></h2>
@@ -474,7 +471,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 4: Storage and Inventory */}
-      <section id="storage-inventory" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="pre-order-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksStorageAndInventory']} locale={locale}>{t.modules.lucidBlocksStorageAndInventory.title}</LinkedTitle></h2>
@@ -513,7 +510,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 5: Qualia and Base Building */}
-      <section id="qualia-base-building" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="price-and-editions" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksQualiaAndBaseBuilding']} locale={locale}>{t.modules.lucidBlocksQualiaAndBaseBuilding.title}</LinkedTitle></h2>
@@ -543,7 +540,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 6: World Regions */}
-      <section id="world-regions" className="scroll-mt-24 px-4 py-20">
+      <section id="multiplayer-and-co-op" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksWorldRegions']} locale={locale}>{t.modules.lucidBlocksWorldRegions.title}</LinkedTitle></h2>
@@ -569,7 +566,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 7: Creatures and Enemies */}
-      <section id="creatures-enemies" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="news-and-updates" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCreaturesAndEnemies']} locale={locale}>{t.modules.lucidBlocksCreaturesAndEnemies.title}</LinkedTitle></h2>
@@ -594,7 +591,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 8: Mobility Gear */}
-      <section id="mobility-gear" className="scroll-mt-24 px-4 py-20">
+      <section id="story-and-setting" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksMobilityGear']} locale={locale}>{t.modules.lucidBlocksMobilityGear.title}</LinkedTitle></h2>
@@ -630,7 +627,7 @@ export default function HomePageClient({
       <AdBanner type="banner-320x50" adKey={process.env.NEXT_PUBLIC_AD_MOBILE_320X50} />
 
       {/* Module 9: Farming and Growth */}
-      <section id="farming-growth" className="scroll-mt-24 px-4 py-20">
+      <section id="deep-cut-characters" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksFarmingAndGrowth']} locale={locale}>{t.modules.lucidBlocksFarmingAndGrowth.title}</LinkedTitle></h2>
@@ -662,7 +659,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 10: Best Early Unlocks */}
-      <section id="best-early-unlocks" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="character-customization" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksBestEarlyUnlocks']} locale={locale}>{t.modules.lucidBlocksBestEarlyUnlocks.title}</LinkedTitle></h2>
@@ -688,7 +685,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 11: Achievement Tracker */}
-      <section id="achievement-tracker" className="scroll-mt-24 px-4 py-20">
+      <section id="weapons-and-gadgets" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksAchievementTracker']} locale={locale}>{t.modules.lucidBlocksAchievementTracker.title}</LinkedTitle></h2>
@@ -720,7 +717,7 @@ export default function HomePageClient({
       </section>
 
       {/* Module 12: Singleplayer FAQ */}
-      <section id="singleplayer-faq" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      <section id="spirhalite-islands" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSingleplayerAndPlatformFAQ']} locale={locale}>{t.modules.lucidBlocksSingleplayerAndPlatformFAQ.title}</LinkedTitle></h2>
@@ -745,28 +742,79 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 13: Steam Deck and Controller */}
-      <section id="steam-deck-controller" className="scroll-mt-24 px-4 py-20">
+      {/* Module 13: Salmonids and Enemies */}
+      <section id="salmonids-and-enemies" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <div className="flex items-center justify-center gap-3 mb-4">
               <Gamepad2 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
-              <h2 className="text-4xl md:text-5xl font-bold"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSteamDeckAndController']} locale={locale}>{t.modules.lucidBlocksSteamDeckAndController.title}</LinkedTitle></h2>
+              <h2 className="text-4xl md:text-5xl font-bold">
+                <LinkedTitle linkData={moduleLinkMap['lucidBlocksSteamDeckAndController']} locale={locale}>
+                  {t.modules.lucidBlocksSteamDeckAndController.title}
+                </LinkedTitle>
+              </h2>
             </div>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSteamDeckAndController.intro}</p>
           </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.lucidBlocksSteamDeckAndController.items.map((item: any, index: number) => (
+              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <span className="inline-flex mb-3 text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.35)] text-[hsl(var(--nav-theme-light))]">
+                  {item.eyebrow}
+                </span>
+                <h3 className="font-bold text-lg mb-2">
+                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSteamDeckAndController::items::${index}`]} locale={locale}>
+                    {item.title}
+                  </LinkedTitle>
+                </h3>
+                <p className="text-muted-foreground text-sm mb-3">{item.description}</p>
+                <ul className="space-y-2">
+                  {item.bullets.map((bullet: string, bi: number) => (
+                    <li key={bi} className="flex items-start gap-2 text-sm text-muted-foreground">
+                      <Check className="w-4 h-4 mt-0.5 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                      <span>{bullet}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 14: Companion Bot */}
+      <section id="companion-bot" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksSettingsAndAccessibility']} locale={locale}>
+                {t.modules.lucidBlocksSettingsAndAccessibility.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSettingsAndAccessibility.intro}</p>
+          </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSteamDeckAndController.faqs.map((faq: any, index: number) => (
+            {t.modules.lucidBlocksSettingsAndAccessibility.items.map((item: any, index: number) => (
               <div key={index} className="border border-border rounded-xl overflow-hidden">
                 <button
-                  onClick={() => setDeckExpanded(deckExpanded === index ? null : index)}
+                  onClick={() => setCompanionExpanded(companionExpanded === index ? null : index)}
                   className="w-full flex items-center justify-between p-5 text-left hover:bg-white/5 transition-colors"
                 >
-                  <span className="font-semibold">{faq.question}</span>
-                  <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${deckExpanded === index ? "rotate-180" : ""}`} />
+                  <span className="font-semibold">{item.title}</span>
+                  <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${companionExpanded === index ? "rotate-180" : ""}`} />
                 </button>
-                {deckExpanded === index && (
-                  <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
+                {companionExpanded === index && (
+                  <div className="px-5 pb-5">
+                    <p className="text-muted-foreground text-sm mb-3">{item.content}</p>
+                    <ul className="space-y-2">
+                      {item.bullets.map((bullet: string, bi: number) => (
+                        <li key={bi} className="flex items-start gap-2 text-sm text-muted-foreground">
+                          <Check className="w-4 h-4 mt-0.5 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                          <span>{bullet}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 )}
               </div>
             ))}
@@ -774,103 +822,98 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 14: Settings and Accessibility */}
-      <section id="settings-accessibility" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 15: File Size and Specs */}
+      <section id="file-size-and-specs" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSettingsAndAccessibility']} locale={locale}>{t.modules.lucidBlocksSettingsAndAccessibility.title}</LinkedTitle></h2>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksSettingsAndAccessibility.intro}</p>
-          </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.lucidBlocksSettingsAndAccessibility.settings.map((s: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-3 mb-3">
-                  <Settings className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSettingsAndAccessibility::settings::${index}`]} locale={locale}>
-                      {s.name}
-                    </LinkedTitle>
-                  </h3>
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{s.type}</span>
-                </div>
-                <p className="text-muted-foreground text-sm">{s.description}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Module 15: Updates and Patch Notes */}
-      <section id="updates-patch-notes" className="scroll-mt-24 px-4 py-20">
-        <div className="container mx-auto max-w-5xl">
-          <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksUpdatesAndPatchNotes']} locale={locale}>{t.modules.lucidBlocksUpdatesAndPatchNotes.title}</LinkedTitle></h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksUpdatesAndPatchNotes']} locale={locale}>
+                {t.modules.lucidBlocksUpdatesAndPatchNotes.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksUpdatesAndPatchNotes.intro}</p>
           </div>
-          <div className="scroll-reveal relative pl-6 border-l-2 border-[hsl(var(--nav-theme)/0.3)] space-y-8">
-            {t.modules.lucidBlocksUpdatesAndPatchNotes.entries.map((entry: any, index: number) => (
-              <div key={index} className="relative">
-                <div className="absolute -left-[1.4rem] w-4 h-4 rounded-full bg-[hsl(var(--nav-theme))] border-2 border-background" />
-                <div className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                  <div className="flex items-center gap-2 mb-2">
-                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{entry.type}</span>
-                    <Clock className="w-4 h-4 text-muted-foreground" />
-                  </div>
-                  <h3 className="font-bold mb-1">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksUpdatesAndPatchNotes::entries::${index}`]} locale={locale}>
-                      {entry.title}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground text-sm">{entry.description}</p>
-                </div>
-              </div>
-            ))}
+          <div className="scroll-reveal rounded-xl border border-border overflow-hidden bg-card/40">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="bg-[hsl(var(--nav-theme)/0.1)]">
+                  <th className="text-left p-4 font-semibold text-[hsl(var(--nav-theme-light))]">Specification</th>
+                  <th className="text-left p-4 font-semibold text-[hsl(var(--nav-theme-light))]">Details</th>
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.lucidBlocksUpdatesAndPatchNotes.specs.map((spec: any, index: number) => (
+                  <tr key={index} className="border-t border-border hover:bg-[hsl(var(--nav-theme)/0.05)] transition-colors">
+                    <td className="p-4 align-top font-medium">
+                      <LinkedTitle linkData={moduleLinkMap[`lucidBlocksUpdatesAndPatchNotes::specs::${index}`]} locale={locale}>
+                        {spec.spec}
+                      </LinkedTitle>
+                    </td>
+                    <td className="p-4 align-top text-muted-foreground">{spec.value}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           </div>
         </div>
       </section>
 
-      {/* Module 16: Crash Fix and Troubleshooting */}
-      <section id="crash-fix" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 16: Amiibo */}
+      <section id="amiibo" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCrashFixAndTroubleshooting']} locale={locale}>{t.modules.lucidBlocksCrashFixAndTroubleshooting.title}</LinkedTitle></h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksCrashFixAndTroubleshooting']} locale={locale}>
+                {t.modules.lucidBlocksCrashFixAndTroubleshooting.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksCrashFixAndTroubleshooting.intro}</p>
           </div>
-          <div className="scroll-reveal space-y-4 mb-8">
-            {t.modules.lucidBlocksCrashFixAndTroubleshooting.steps.map((step: any, index: number) => (
-              <div key={index} className="flex gap-4 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border-2 border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center">
-                  <span className="text-xl font-bold text-[hsl(var(--nav-theme-light))]">{index + 1}</span>
-                </div>
-                <div>
-                  <h3 className="text-xl font-bold mb-2">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCrashFixAndTroubleshooting::steps::${index}`]} locale={locale}>
-                      {step.title}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground">{step.description}</p>
-                </div>
-              </div>
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-3 gap-4">
+            {t.modules.lucidBlocksCrashFixAndTroubleshooting.cards.map((card: any, index: number) => (
+              <article key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <span className="inline-flex mb-3 text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.35)] text-[hsl(var(--nav-theme-light))]">
+                  {card.eyebrow}
+                </span>
+                <h3 className="font-bold text-lg mb-2">
+                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCrashFixAndTroubleshooting::cards::${index}`]} locale={locale}>
+                    {card.title}
+                  </LinkedTitle>
+                </h3>
+                <p className="text-muted-foreground text-sm mb-3">{card.description}</p>
+                <ul className="space-y-2 mb-4">
+                  {card.bullets.map((bullet: string, bi: number) => (
+                    <li key={bi} className="flex items-start gap-2 text-sm text-muted-foreground">
+                      <Check className="w-4 h-4 mt-0.5 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                      <span>{bullet}</span>
+                    </li>
+                  ))}
+                </ul>
+                <a
+                  href={card.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-sm text-[hsl(var(--nav-theme-light))] hover:underline underline-offset-4"
+                >
+                  Open official listing
+                  <ExternalLink className="w-3 h-3" />
+                </a>
+              </article>
             ))}
           </div>
-          <div className="scroll-reveal p-6 bg-yellow-500/10 border border-yellow-500/30 rounded-xl">
-            <div className="flex items-start gap-3">
-              <AlertTriangle className="w-6 h-6 text-yellow-400 flex-shrink-0 mt-1" />
-              <div>
-                <h3 className="font-bold text-yellow-400 mb-2">Still having issues?</h3>
-                <p className="text-sm text-muted-foreground mb-3">Report bugs with your logs through the official channels:</p>
-                <div className="flex flex-wrap gap-3">
-                  <a href={homeConfig.links.supportCommunity} target="_blank" rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    <MessageCircle className="w-4 h-4" /> Reddit <ExternalLink className="w-3 h-3" />
-                  </a>
-                  <a href={homeConfig.links.supportGame} target="_blank" rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    Official Site <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
+          <div className="scroll-reveal mt-8 text-center">
+            <a
+              href="https://www.nintendo.com/us/amiibo/line-up/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-5 py-3 rounded-lg
+                         bg-[hsl(var(--nav-theme)/0.12)] border border-[hsl(var(--nav-theme)/0.3)]
+                         hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
+            >
+              <Settings className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+              Browse Splatoon Raiders Amiibo Pages
+              <ExternalLink className="w-4 h-4" />
+            </a>
           </div>
         </div>
       </section>
