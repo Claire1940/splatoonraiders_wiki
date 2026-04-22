@@ -82,22 +82,22 @@
       {
         "icon": "Home",
         "title": "Splatoon Raiders Price and Editions",
-        "description": "Digital price, editions, and purchase format notes"
+        "description": "US and UK digital or physical pricing with availability status"
       },
       {
         "icon": "Eye",
         "title": "Splatoon Raiders Multiplayer and Co-Op",
-        "description": "Online and local wireless play options explained"
+        "description": "Single-player focus plus local wireless and online rules"
       },
       {
         "icon": "AlertTriangle",
         "title": "Splatoon Raiders News and Updates",
-        "description": "Recent official announcements in timeline order"
+        "description": "Timeline from reveal to trailer, pre-order, and pricing updates"
       },
       {
         "icon": "ArrowRight",
         "title": "Splatoon Raiders Story and Setting",
-        "description": "Spirhalite Islands setting and story framework"
+        "description": "Mechanic lead, Deep Cut expedition, and Spirhalite mystery setup"
       },
       {
         "icon": "TrendingUp",
@@ -277,121 +277,126 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Splatoon Raiders Price and Editions",
       "displayType": "cards",
-      "intro": "Price and edition clarity removes friction for buyers who only want quick purchase facts before launch.",
+      "intro": "Splatoon Raiders pricing is currently clearest when split by region and purchase format. This module compares US and UK listings for digital and physical availability at a glance.",
       "cards": [
         {
-          "name": "Splatoon Raiders U.S. Digital Price",
-          "description": "The current official U.S. regular digital price shown in Nintendo updates is $49.99."
+          "name": "Splatoon Raiders Standard Digital (US)",
+          "description": "Price: $49.99. Release date: July 23, 2026. Availability: pre-order now through the US Nintendo product listing."
         },
         {
-          "name": "Splatoon Raiders Regional Price Tracking",
-          "description": "Regional storefronts may differ, so the best approach is to compare each official region page directly."
+          "name": "Splatoon Raiders Standard Physical (US)",
+          "description": "Price: $59.99. Release date: July 23, 2026. Availability: find retailers for the physical Nintendo Switch 2 edition."
         },
         {
-          "name": "Splatoon Raiders Edition Format",
-          "description": "Track digital and boxed availability by region and keep differences visible in one table."
+          "name": "Splatoon Raiders Standard Digital (UK)",
+          "description": "Price: GBP 41.99 including VAT. Release date: July 23, 2026. Availability: listed on Nintendo eShop UK."
         },
         {
-          "name": "Splatoon Raiders Purchase Timing",
-          "description": "Pre-order status and release-day availability are easiest to monitor through official product pages."
+          "name": "Splatoon Raiders Standard Physical (UK)",
+          "description": "Price: currently not listed. Release date: July 23, 2026. Availability: retail pricing still pending for UK physical listings."
         }
       ],
       "highlights": [
-        "Splatoon Raiders digital price reference",
-        "Splatoon Raiders regional edition comparison",
-        "Splatoon Raiders pre-order status snapshot",
-        "Splatoon Raiders launch-day purchase checklist"
+        "Splatoon Raiders US digital: $49.99 and pre-order open",
+        "Splatoon Raiders US physical: $59.99 retailer availability",
+        "Splatoon Raiders UK digital: GBP 41.99 on eShop",
+        "Splatoon Raiders UK physical: price pending"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Splatoon Raiders Multiplayer and Co-Op",
       "displayType": "regionCards",
-      "intro": "Splatoon Raiders messaging centers on a single-player-focused adventure, with optional multiplayer paths clearly listed on official pages.",
+      "intro": "Splatoon Raiders is positioned as a single-player-focused action shooter, but raids can also be played with friends. These cards separate mode focus, player counts, and play requirements.",
       "regions": [
         {
-          "name": "Splatoon Raiders Solo Adventure",
-          "type": "Single-Player Focus",
-          "description": "The core campaign loop is built for solo progression through exploration, combat, and upgrades."
+          "name": "Splatoon Raiders Solo Focus and Co-Op Access",
+          "type": "Mode Focus",
+          "description": "Splatoon Raiders is described as single-player focused, you play as the mechanic, and raids can include up to three additional players."
         },
         {
-          "name": "Splatoon Raiders Local Wireless",
-          "type": "2-4 Players",
-          "description": "Local wireless support is listed for small-group play when each player has compatible setup."
+          "name": "Splatoon Raiders Player Count by Mode",
+          "type": "Player Counts",
+          "description": "Official listings show Local on one system as 1 player, Local Wireless as 2 to 4 players, and Online as 2 to 4 players."
         },
         {
-          "name": "Splatoon Raiders Online Co-Op",
-          "type": "2-4 Players",
-          "description": "Online multiplayer support is surfaced on official pages for cooperative sessions."
+          "name": "Splatoon Raiders Online and Local Requirements",
+          "type": "Requirements",
+          "description": "Online play requires a Nintendo Account and Nintendo Switch Online membership. Local wireless requires one console and one game copy per player."
         },
         {
-          "name": "Splatoon Raiders Session Planning",
-          "type": "Party Setup",
-          "description": "Set expectations early by calling out mode focus, player count ranges, and regional account requirements."
+          "name": "Splatoon Raiders Supported Hardware Modes",
+          "type": "Hardware Modes",
+          "description": "Splatoon Raiders supports TV, Tabletop, and Handheld modes, with one compatible controller needed per player for multiplayer sessions."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Splatoon Raiders News and Updates",
       "displayType": "creatureCards",
-      "intro": "This stream captures the official Splatoon Raiders update cadence so returning visitors can see the latest major beats at a glance.",
+      "intro": "This timeline keeps the most important Splatoon Raiders beats in order, from first reveal to trailer updates, pre-orders, and regional pricing visibility.",
       "creatures": [
         {
-          "name": "Splatoon Raiders Reveal News",
-          "role": "June 2025",
-          "description": "The first announcement introduced Splatoon Raiders as a new spin-off direction for the series."
+          "name": "Splatoon Raiders Treasure-Hunting Trailer Published",
+          "role": "2026-04-21 | Trailer",
+          "description": "Nintendo published a new trailer highlighting character creation, gadgets, salvage raids, Salmonid encounters, and the single-player-focused adventure tone."
         },
         {
-          "name": "Splatoon Raiders Date-Confirm News",
-          "role": "April 2026",
-          "description": "Nintendo confirmed the release date and reinforced the treasure-hunting adventure pitch."
+          "name": "Splatoon Raiders US Digital Pre-Orders Opened",
+          "role": "2026-04-21 | Pre-order",
+          "description": "US digital pre-orders opened at $49.99 and the official listing moved to pre-order status with launch details."
         },
         {
-          "name": "Splatoon Raiders Store Listing Updates",
-          "role": "Product Updates",
-          "description": "Store pages provide the most direct updates for release timing, file size, and platform details."
+          "name": "Splatoon Raiders Product Pages Show Launch Specs",
+          "role": "2026-04-21 | Store Update",
+          "description": "Current listings confirm the July 23, 2026 release date, estimated 20 GB file size, supported play modes, and Nintendo Switch Online feature notes."
         },
         {
-          "name": "Splatoon Raiders Trailer Rollout",
-          "role": "Video Updates",
-          "description": "Trailer beats function as the clearest source for fresh gameplay footage and feature emphasis."
+          "name": "Splatoon Raiders Physical Pricing and Box Art Coverage",
+          "role": "2026-04-22 | Price and Box Art",
+          "description": "Wider coverage tied official box art with current pricing split: US digital $49.99, US physical $59.99, and UK digital GBP 41.99."
+        },
+        {
+          "name": "Splatoon Raiders First-Ever Spinoff Reveal",
+          "role": "2025-06-10 | Reveal",
+          "description": "Nintendo announced the first Splatoon spinoff and introduced the mechanic lead, Deep Cut trio, and Spirhalite Islands setup."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Splatoon Raiders Story and Setting",
       "displayType": "itemCards",
-      "intro": "Splatoon Raiders story framing starts with treasure hunting on the Spirhalite Islands and expands through character roles and mystery hooks.",
+      "intro": "Splatoon Raiders is framed as an island treasure-hunt adventure. This section breaks the setup into protagonist, setting, goals, companion roles, and the mystery signals around Spirhalite Islands.",
       "items": [
         {
-          "name": "Splatoon Raiders Story Premise",
-          "type": "Narrative Core",
-          "description": "You enter a treasure-focused expedition as a mechanic stepping into the Spirhalite Islands."
+          "name": "Splatoon Raiders Main Playable Character",
+          "type": "Main Character",
+          "description": "You play as the mechanic, a new protagonist who joins Deep Cut on the expedition and can be customized in official footage."
         },
         {
-          "name": "Splatoon Raiders Spirhalite Islands",
+          "name": "Splatoon Raiders Spirhalite Islands Setting",
           "type": "Primary Setting",
-          "description": "The islands are the main stage for raids, discoveries, and story progression beats."
+          "description": "The Spirhalite Islands are the core location: a mysterious archipelago presented as a new Splatoon world setting."
         },
         {
-          "name": "Splatoon Raiders Deep Cut Role",
-          "type": "Character Link",
-          "description": "Deep Cut members are integrated into the journey as active companions and narrative anchors."
+          "name": "Splatoon Raiders Expedition Goal",
+          "type": "Treasure and Salvage",
+          "description": "The mechanic and Deep Cut travel there to raid for salvage, hunt treasure, and investigate secrets tied to the islands."
         },
         {
-          "name": "Splatoon Raiders Treasure Objective",
-          "type": "Main Goal",
-          "description": "Each expedition is tied to recovering treasure while surviving combat pressure and unknown threats."
+          "name": "Splatoon Raiders Deep Cut Companion Role",
+          "type": "Companions",
+          "description": "Shiver, Frye, and Big Man join the expedition, and one member can accompany you in the Exploration Bot during raids."
         },
         {
-          "name": "Splatoon Raiders Mystery Threads",
-          "type": "Story Hooks",
-          "description": "Unresolved island mysteries create clear follow-up topics for post-trailer story coverage."
+          "name": "Splatoon Raiders Island Mystery Signals",
+          "type": "Mystery Hooks",
+          "description": "Storm imagery, unusual glow effects, strange structures, a floating base camp, and active Salmonids define the setting's mysterious atmosphere."
         }
       ],
       "unlockMilestones": [
-        "Read Splatoon Raiders setting overview",
-        "Track Splatoon Raiders story premise updates",
-        "Follow Splatoon Raiders island mystery threads"
+        "Review Splatoon Raiders mechanic and Deep Cut role setup",
+        "Track Splatoon Raiders Spirhalite Islands lore updates",
+        "Follow Splatoon Raiders mystery clues from new trailers"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
