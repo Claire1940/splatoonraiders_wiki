@@ -1,29 +1,29 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de Splatoon Raiders - Fecha de lanzamiento, tráiler y cooperativo",
+      "description": "La Wiki de Splatoon Raiders sigue el cronograma de lanzamiento, tráilers, sistemas de juego, opciones cooperativas, detalles de la historia, noticias de amiibo y actualizaciones de Nintendo Switch 2.",
+      "keywords": "Splatoon Raiders, Splatoon Raiders wiki, fecha de lanzamiento, tráiler, cooperativo, Deep Cut, Nintendo Switch 2",
+      "ogTitle": "Wiki de Splatoon Raiders - Fecha de lanzamiento, tráiler y cooperativo",
+      "ogDescription": "La Wiki de Splatoon Raiders sigue el cronograma de lanzamiento, tráilers, sistemas de juego, opciones cooperativas, detalles de la historia, noticias de amiibo y actualizaciones de Nintendo Switch 2.",
+      "twitterTitle": "Wiki de Splatoon Raiders - Fecha de lanzamiento, tráiler y cooperativo",
+      "twitterDescription": "La Wiki de Splatoon Raiders sigue el cronograma de lanzamiento, tráilers, opciones cooperativas, detalles de la jugabilidad y actualizaciones oficiales de Nintendo."
     }
   },
   "nav": {
-    "release": "Release",
-    "trailer": "Trailer",
-    "store": "Store",
-    "guide": "Guide",
-    "multiplayer": "Multiplayer",
-    "customization": "Customization",
-    "characters": "Characters",
-    "media": "Media"
+    "release": "Lanzamiento",
+    "trailer": "Tráiler",
+    "store": "Tienda",
+    "guide": "Guía",
+    "multiplayer": "Multijugador",
+    "customization": "Personalización",
+    "characters": "Personajes",
+    "media": "Multimedia"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Sitio oficial",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -35,899 +35,933 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Spin-off de Splatoon para Nintendo Switch 2",
+    "title": "Splatoon Raiders",
+    "description": "Sigue la fecha de lanzamiento, el último tráiler, detalles del cooperativo, personajes, armas, islas, amiibo, precio y cada actualización confirmada de Nintendo para Splatoon Raiders.",
+    "getFreeCodesCTA": "Ver tráiler",
+    "playOnSteamCTA": "Sitio oficial",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "23 de julio de 2026",
+        "label": "Fecha de lanzamiento"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "4",
+        "label": "Máx. jugadores cooperativo"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "$49.99",
+        "label": "Precio digital (EE. UU.)"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "20 GB",
+        "label": "Tamaño de archivo est."
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Splatoon Raiders",
+    "description": "Explora las Islas Spirhalite, lucha contra Salmonids, recupera tesoros y mejora tu campamento en Splatoon Raiders para Nintendo Switch 2."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Splatoon Raiders",
+    "titleHighlight": "Navegación",
+    "subtitle": "Ir a cada módulo de la página de inicio de Splatoon Raiders",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Fecha de lanzamiento de Splatoon Raiders",
+        "description": "Cronología de la revelación, confirmación de fecha y día de lanzamiento"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "title": "Tráiler de Splatoon Raiders",
+        "description": "Lo más destacado del tráiler oficial y análisis de imágenes"
       },
       {
         "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
+        "title": "Resumen de la jugabilidad de Splatoon Raiders",
+        "description": "Ciclo principal, ritmo de combate y flujo de progresión"
       },
       {
         "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
+        "title": "Guía de preventa de Splatoon Raiders",
+        "description": "Pasos oficiales de compra antes del día del lanzamiento"
       },
       {
         "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
+        "title": "Precio y ediciones de Splatoon Raiders",
+        "description": "Precios digitales o físicos para EE. UU. y Reino Unido con estado de disponibilidad"
       },
       {
         "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
+        "title": "Multijugador y cooperativo de Splatoon Raiders",
+        "description": "Enfoque en un solo jugador más reglas de conexión inalámbrica local y en línea"
       },
       {
         "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
+        "title": "Noticias y actualizaciones de Splatoon Raiders",
+        "description": "Cronología desde la revelación hasta el tráiler, preventa y actualizaciones de precios"
       },
       {
         "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
+        "title": "Historia y ambientación de Splatoon Raiders",
+        "description": "Líder mecánico, expedición de Deep Cut y planteamiento del misterio de Spirhalite"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "title": "Personajes de Deep Cut en Splatoon Raiders",
+        "description": "Roles de Shiver, Frye, Big Man y el equipo de campo en las incursiones de las islas"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Personalización de personajes en Splatoon Raiders",
+        "description": "Creación de mecánicos, opciones de apariencia y progresión de equipo del campamento"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "title": "Armas y gadgets de Splatoon Raiders",
+        "description": "Armas de tinta, gadgets mecánicos y herramientas de apoyo del Bot de Exploración"
       },
       {
         "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "title": "Islas Spirhalite de Splatoon Raiders",
+        "description": "Ciclón, costas tropicales, puntos de interés, base flotante y pistas del mapa de la isla"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "title": "Salmonids y enemigos de Splatoon Raiders",
+        "description": "Amenaza Salmonid confirmada, familias de enemigos y desglose del ciclo de combate"
       },
       {
         "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "title": "Bot acompañante de Splatoon Raiders",
+        "description": "Rol del Bot de Exploración, emparejamiento con Deep Cut y detalles de apoyo en incursiones"
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Tamaño de archivo y especificaciones de Splatoon Raiders",
+        "description": "Especificaciones del sistema, idiomas, número de jugadores y notas de Nintendo Switch Online"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "amiibo de Splatoon Raiders",
+        "description": "Detalles de las figuras de Shiver, Frye y Big Man con enlaces a listados oficiales"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Fecha de lanzamiento de Splatoon Raiders",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Splatoon Raiders ya tiene un cronograma de lanzamiento claro, desde su revelación inicial hasta el día de estreno. Esta sección presenta los hitos de fechas esenciales en un vistazo rápido.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "10 de junio de 2025: Primera revelación de Splatoon Raiders",
+          "description": "Nintendo reveló Splatoon Raiders como el primer spin-off de Splatoon y presentó la ambientación de aventura en las Islas Spirhalite."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "21 de abril de 2026: Confirmación de la fecha de Splatoon Raiders",
+          "description": "Nintendo publicó un nuevo tráiler de búsqueda de tesoros y confirmó la fecha de lanzamiento oficial para el 23 de julio de 2026."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "23 de julio de 2026: Día de lanzamiento de Splatoon Raiders",
+          "description": "El lanzamiento de Splatoon Raiders está programado para Nintendo Switch 2, y la disponibilidad de preventa digital ya apareció en las páginas oficiales."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Horarios regionales: Ventana de disponibilidad de Splatoon Raiders",
+          "description": "Los horarios de las tiendas regionales pueden variar según la zona horaria, por lo que consultar la página oficial de la tienda de tu región sigue siendo la forma más rápida de confirmar la hora de desbloqueo."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Sigue los dos puntos clave: la primera revelación y el tráiler de confirmación de fecha.",
+        "Usa las páginas oficiales de la tienda de Nintendo como fuente de información oficial para las fechas.",
+        "Mantén los mensajes de cuenta regresiva sincronizados con el 23 de julio de 2026, a menos que Nintendo lo actualice.",
+        "Muestra los horarios de lanzamiento específicos por región a medida que se acerque el día del estreno."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Tráiler de Splatoon Raiders",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "Los dos momentos clave de los tráileres son el de anuncio y el de la fecha de lanzamiento. Comparar ambos muestra rápidamente cómo evolucionó el posicionamiento de Splatoon Raiders.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Tráiler de anuncio de Splatoon Raiders",
+          "description": "El primer tráiler presentó al mecánico protagonista, la ambientación de las Islas Spirhalite y la colaboración con Deep Cut."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Tráiler de la fecha de lanzamiento de Splatoon Raiders",
+          "description": "El tráiler más reciente confirma el 23 de julio de 2026 y amplía las imágenes de los dispositivos, la exploración y el flujo de las incursiones."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Comparación de imágenes de Splatoon Raiders",
+          "description": "Una revisión comparativa resalta qué cambió entre las imágenes de la etapa de revelación y las de la ventana de lanzamiento."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Orden para ver los tráileres de Splatoon Raiders",
+          "description": "Mira primero el tráiler de anuncio y luego el de la fecha de lanzamiento para obtener la narrativa de progresión más clara."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Ver el tráiler de anuncio de Splatoon Raiders",
+        "Ver el tráiler de la fecha de lanzamiento de Splatoon Raiders",
+        "Comparar los cambios en los tráileres de Splatoon Raiders"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Resumen de la jugabilidad de Splatoon Raiders",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "La jugabilidad de Splatoon Raiders se centra en recorridos por islas, encuentros de combate, extracción de botín, mejoras del campamento y expediciones recurrentes.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Premisa central de Splatoon Raiders",
+          "type": "Resumen",
+          "description": "Juegas como un mecánico que explora las Islas Spirhalite con el apoyo de Deep Cut."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Ciclo de combate de Splatoon Raiders",
+          "type": "Combate",
+          "description": "El combate combina armas de tinta, dispositivos y la presión de grupos de enemigos Salmonid."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Flujo de exploración de Splatoon Raiders",
+          "type": "Expedición",
+          "description": "Cada recorrido se enfoca en encontrar tesoros, sobrevivir a encuentros y regresar con un botín valioso."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Mejoras del campamento de Splatoon Raiders",
+          "type": "Progresión",
+          "description": "El botín recuperado sirve para realizar mejoras que optimizan los recorridos posteriores y desbloquean opciones de equipamiento más fuertes."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Soporte de compañeros en Splatoon Raiders",
+          "type": "Sistema de compañeros",
+          "description": "Un aliado de Deep Cut y el Robot de Exploración apoyan el ritmo de combate y la utilidad durante las incursiones."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Modos de juego de Splatoon Raiders",
+          "type": "Opciones de juego",
+          "description": "El juego está enfocado en un solo jugador, aunque también es compatible con modos cooperativos en línea y de comunicación inalámbrica local."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Guía de preventa de Splatoon Raiders",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Usa este flujo de pago para completar la preventa de Splatoon Raiders en las páginas oficiales de Nintendo con la plataforma y los detalles de lanzamiento correctos.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Página oficial del producto Splatoon Raiders",
+          "role": "Paso 1",
+          "description": "Comienza desde el listado oficial de productos de Nintendo para tu región para evitar información desactualizada de la tienda."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Verificación de plataforma de Splatoon Raiders",
+          "role": "Paso 2",
+          "description": "Confirma que el listado sea para Nintendo Switch 2 antes de proceder al pago."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Verificación de precio de Splatoon Raiders",
+          "role": "Paso 3",
+          "description": "Verifica el precio regional oficial actual y el formato de compra antes del pago final."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Detalles de almacenamiento y juego de Splatoon Raiders",
+          "role": "Paso 4",
+          "description": "Revisa el tamaño estimado del archivo, los modos de juego y cualquier nota regional que figure en la página oficial."
+        },
+        {
+          "name": "Pago final de Splatoon Raiders",
+          "role": "Paso 5",
+          "description": "Completa tu pedido a través de la ruta oficial de la tienda de Nintendo específica para tu región."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Usa los dominios oficiales de Nintendo para las acciones de preventa.",
+        "Vuelve a confirmar la fecha y la plataforma justo antes de pagar.",
+        "Revisa el tamaño del archivo y la compatibilidad de modos en el listado del producto.",
+        "Usa tu tienda regional para que coincidan el precio y la disponibilidad locales."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Precios y ediciones de Splatoon Raiders",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "Los precios de Splatoon Raiders son más claros actualmente cuando se dividen por región y formato de compra. Este módulo compara los listados de EE. UU. y el Reino Unido para disponibilidad digital y física de un vistazo.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "Splatoon Raiders Estándar Digital (EE. UU.)",
+          "description": "Precio: $49.99. Fecha de lanzamiento: 23 de julio de 2026. Disponibilidad: reserva ahora a través del listado de productos de Nintendo en EE. UU."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "Splatoon Raiders Estándar Físico (EE. UU.)",
+          "description": "Precio: $59.99. Fecha de lanzamiento: 23 de julio de 2026. Disponibilidad: busca distribuidores para la edición física de Nintendo Switch 2."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "name": "Splatoon Raiders Estándar Digital (Reino Unido)",
+          "description": "Precio: 41.99 GBP (IVA incluido). Fecha de lanzamiento: 23 de julio de 2026. Disponibilidad: listado en la Nintendo eShop del Reino Unido."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "Splatoon Raiders Estándar Físico (Reino Unido)",
+          "description": "Precio: no listado actualmente. Fecha de lanzamiento: 23 de julio de 2026. Disponibilidad: el precio minorista aún está pendiente para los listados físicos del Reino Unido."
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "Splatoon Raiders digital EE. UU.: $49.99 y reserva abierta",
+        "Splatoon Raiders físico EE. UU.: $59.99 disponibilidad en tiendas",
+        "Splatoon Raiders digital Reino Unido: 41.99 GBP en eShop",
+        "Splatoon Raiders físico Reino Unido: precio pendiente"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Multijugador y cooperativo de Splatoon Raiders",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "Splatoon Raiders se posiciona como un shooter de acción centrado en un solo jugador, pero las incursiones también se pueden jugar con amigos. Estas tarjetas separan el enfoque del modo, el número de jugadores y los requisitos de juego.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "name": "Enfoque individual y acceso cooperativo de Splatoon Raiders",
+          "type": "Enfoque del modo",
+          "description": "Splatoon Raiders se describe como centrado en un solo jugador, juegas como el mecánico y las incursiones pueden incluir hasta tres jugadores adicionales."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "name": "Número de jugadores por modo en Splatoon Raiders",
+          "type": "Número de jugadores",
+          "description": "Los listados oficiales muestran Local en una consola como 1 jugador, Local inalámbrico de 2 a 4 jugadores y En línea de 2 a 4 jugadores."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "name": "Requisitos locales y en línea de Splatoon Raiders",
+          "type": "Requisitos",
+          "description": "El juego en línea requiere una cuenta Nintendo y una suscripción a Nintendo Switch Online. El modo local inalámbrico requiere una consola y una copia del juego por jugador."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "name": "Modos de hardware compatibles de Splatoon Raiders",
+          "type": "Modos de hardware",
+          "description": "Splatoon Raiders es compatible con los modos televisor, semiportátil y portátil, y se necesita un control compatible por jugador para las sesiones multijugador."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
+      "title": "Noticias y actualizaciones de Splatoon Raiders",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "intro": "Esta cronología mantiene en orden los hitos más importantes de Splatoon Raiders, desde la primera revelación hasta las actualizaciones de tráileres, reservas y visibilidad de precios regionales.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "name": "Publicado el tráiler de búsqueda de tesoros de Splatoon Raiders",
+          "role": "21-04-2026 | Tráiler",
+          "description": "Nintendo publicó un nuevo tráiler que destaca la creación de personajes, dispositivos, incursiones de rescate, encuentros con Salmonid y el tono de aventura centrado en un solo jugador."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "name": "Abiertas las reservas digitales de Splatoon Raiders en EE. UU.",
+          "role": "21-04-2026 | Reserva",
+          "description": "Las reservas digitales en EE. UU. se abrieron a $49.99 y el listado oficial pasó al estado de reserva con detalles del lanzamiento."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "name": "Las páginas de producto de Splatoon Raiders muestran especificaciones de lanzamiento",
+          "role": "21-04-2026 | Actualización de la tienda",
+          "description": "Los listados actuales confirman la fecha de lanzamiento del 23 de julio de 2026, un tamaño de archivo estimado de 20 GB, los modos de juego compatibles y notas sobre las funciones de Nintendo Switch Online."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "name": "Cobertura de precios físicos y arte de portada de Splatoon Raiders",
+          "role": "22-04-2026 | Precio y arte de portada",
+          "description": "Una cobertura más amplia vinculó el arte de portada oficial con la división de precios actual: digital EE. UU. $49.99, físico EE. UU. $59.99 y digital Reino Unido 41.99 GBP."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "name": "Revelación del primer spinoff de Splatoon Raiders",
+          "role": "10-06-2025 | Revelación",
+          "description": "Nintendo anunció el primer spinoff de Splatoon y presentó al mecánico protagonista, al trío Deep Cut y la ambientación de las Spirhalite Islands."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Historia y ambientación de Splatoon Raiders",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Splatoon Raiders se presenta como una aventura de búsqueda de tesoros en una isla. Esta sección divide la configuración en protagonista, ambientación, objetivos, roles de los compañeros y las señales misteriosas alrededor de las Spirhalite Islands.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Personaje jugable principal de Splatoon Raiders",
+          "type": "Personaje principal",
+          "description": "Juegas como el mecánico, un nuevo protagonista que se une a Deep Cut en la expedición y que puede personalizarse en las imágenes oficiales."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "Ambientación de las Spirhalite Islands en Splatoon Raiders",
+          "type": "Ambientación principal",
+          "description": "Las Spirhalite Islands son la ubicación central: un archipiélago misterioso presentado como una nueva ambientación del mundo de Splatoon."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Objetivo de la expedición de Splatoon Raiders",
+          "type": "Tesoro y rescate",
+          "description": "El mecánico y Deep Cut viajan allí para realizar incursiones de rescate, buscar tesoros e investigar secretos vinculados a las islas."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Rol de los compañeros de Deep Cut en Splatoon Raiders",
+          "type": "Compañeros",
+          "description": "Shiver, Frye y Big Man se unen a la expedición, y un miembro puede acompañarte en el Exploration Bot durante las incursiones."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Señales misteriosas de la isla en Splatoon Raiders",
+          "type": "Ganchos de misterio",
+          "description": "Imágenes de tormentas, efectos de brillo inusuales, estructuras extrañas, un campamento base flotante y Salmonids activos definen la atmósfera misteriosa de la ambientación."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "Revisar la configuración del mecánico de Splatoon Raiders y el rol de Deep Cut",
+        "Seguir las actualizaciones de la historia de las Spirhalite Islands de Splatoon Raiders",
+        "Seguir las pistas de misterio de Splatoon Raiders de los nuevos tráileres"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
+      "title": "Personajes de Deep Cut en Splatoon Raiders",
       "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
+      "intro": "Deep Cut se presenta como un escuadrón de expedición central en Splatoon Raiders, y cada miembro desempeña un papel distinto en las búsquedas de tesoros en las Spirhalite Islands.",
       "sections": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "name": "Shiver en Splatoon Raiders",
+          "description": "Shiver se une a la expedición de la isla como una de los tres compañeros principales de Deep Cut, manteniendo su identidad serena mientras aparece con un aspecto más rudo y listo para la incursión a bordo de la base del equipo."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "name": "Frye en Splatoon Raiders",
+          "description": "Frye mantiene su personalidad de alta energía en Splatoon Raiders mientras cambia a un rol listo para la expedición, con imágenes iniciales que la posicionan como parte del tono de recolección y búsqueda de rescate del equipo."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "name": "Big Man en Splatoon Raiders",
+          "description": "Big Man sigue siendo la silueta más reconocible de la tripulación y ayuda a anclar una dinámica de equipo familiar mientras Splatoon Raiders se traslada a una nueva ambientación de isla y formato de aventura."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "name": "Equipo de campo de Deep Cut en Splatoon Raiders",
+          "description": "Splatoon Raiders posiciona a Deep Cut como compañeros en el terreno para búsquedas de tesoros e incursiones de rescate, con un miembro capaz de acompañar una incursión a través del Exploration Bot."
         }
       ],
       "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
+        "Seguir las revelaciones de los roles de Shiver, Frye y Big Man en Splatoon Raiders.",
+        "Seguir las actualizaciones del equipo de campo de Splatoon Raiders vinculadas al soporte del Exploration Bot.",
+        "Ver nuevas imágenes de Splatoon Raiders para acciones de expedición específicas de los personajes."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
+      "title": "Personalización de personajes de Splatoon Raiders",
       "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
+      "intro": "El mecánico es un protagonista controlado por el jugador en Splatoon Raiders, y el material oficial vincula la creación de personajes, la personalización de la apariencia y las mejoras del equipo del campamento en un solo ciclo de progresión.",
       "priorities": [
         {
-          "name": "Qualia personal",
+          "name": "Protagonista mecánico de Splatoon Raiders",
           "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "description": "Juegas como el mecánico, un nuevo protagonista que trabaja con Deep Cut en expediciones centradas en la búsqueda de tesoros y el salvamento en las Spirhalite Islands."
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "name": "Creación de personajes de Splatoon Raiders",
+          "priority": "Esencial",
+          "description": "La cobertura del tráiler de Nintendo confirma explícitamente la creación de personajes como una característica principal, haciendo que la identidad definida por el jugador sea parte de la configuración central."
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "name": "Personalización de apariencia de Splatoon Raiders",
+          "priority": "Esencial",
+          "description": "Las páginas oficiales del producto confirman que puedes personalizar la apariencia de tu personaje, lo que permite la expresión personal dentro de una aventura en la isla impulsada por la historia."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "name": "Mejoras de campamento y equipo de Splatoon Raiders",
+          "priority": "Importante",
+          "description": "Splatoon Raiders envía el botín de vuelta al campamento para mejorar el equipo antes de la siguiente incursión, vinculando la personalización tanto al estilo visual como a la progresión a largo plazo."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
+      "title": "Armas y dispositivos de Splatoon Raiders",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
+      "intro": "Nintendo posiciona los arsenales de Splatoon Raiders en torno a armas que lanzan tinta, dispositivos mecánicos y el apoyo del Exploration Bot, con imágenes reveladas que también muestran un estilo de arma de campo improvisada.",
       "groups": [
         {
-          "name": "Exploración",
+          "name": "Armas y núcleo de combate de Splatoon Raiders",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
+              "title": "Armas de salpicadura de tinta de Splatoon Raiders",
+              "description": "Las páginas oficiales de la tienda describen el equipo principal como armas de salpicadura de tinta, manteniendo el movimiento clásico de tinta y la presión de combate como elementos centrales de cada incursión."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
+              "title": "Arma de campo improvisada de Splatoon Raiders",
+              "description": "Las imágenes de la revelación muestran al mecánico portando un arma de aspecto improvisado, lo que refuerza un estilo de combate basado en el salvamento y la expedición."
             }
           ]
         },
         {
-          "name": "Artesanía e invocación",
+          "name": "Dispositivos y apoyo de bots de Splatoon Raiders",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
+              "title": "Dispositivos mecánicos de Splatoon Raiders",
+              "description": "Las descripciones oficiales combinan las armas con dispositivos mecánicos, convirtiendo al equipo de apoyo en un pilar fundamental del ciclo de aventuras de Splatoon Raiders."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
-        },
-        {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
+              "title": "Exploration Bot de Splatoon Raiders",
+              "description": "El Exploration Bot acompaña las incursiones junto a un miembro de Deep Cut, ayudando a repeler enemigos y recolectar botín mientras refuerza la identidad de la expedición."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
+      "title": "Spirhalite Islands de Splatoon Raiders",
       "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
+      "intro": "Las Spirhalite Islands de Splatoon Raiders combinan el peligro de las tormentas, costas tropicales, monumentos tallados por la sal y un campamento flotante que sirve de base para cada expedición.",
       "faqs": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "question": "¿Qué es el ciclón de Splatoon Raiders sobre las Spirhalite Islands?",
+          "answer": "La revelación de Splatoon Raiders presenta un enorme ciclón con un brillo misterioso como el monumento emblemático y el principal atractivo visual del entorno."
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "question": "¿Cómo influyen las costas tropicales de Splatoon Raiders en la exploración?",
+          "answer": "Splatoon Raiders presenta playas de arena, palmeras y zonas bordeadas de manglares que hacen que las rutas de la isla se sientan más luminosas y abiertas que los espacios de batalla urbanos."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "question": "¿Qué define a los monumentos tallados por la sal de Splatoon Raiders?",
+          "answer": "Splatoon Raiders destaca formaciones de cristales similares a la halita y estructuras gigantes en forma de trituradora que otorgan a las islas una identidad ambiental distintiva."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "question": "¿Cómo apoya la base flotante de Splatoon Raiders las incursiones?",
+          "answer": "Splatoon Raiders utiliza una base flotante improvisada como el centro social y logístico del equipo entre las expediciones a las islas."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "question": "¿Por qué es importante el mapa de la isla de Splatoon Raiders?",
+          "answer": "Las tomas del mapa promocional de Splatoon Raiders refuerzan un entorno de múltiples islas y ayudan a presentar la aventura como una zona de expedición navegable."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+      "title": "Salmónidos y enemigos de Splatoon Raiders",
+      "displayType": "cards",
+      "intro": "La guía de enemigos de Splatoon Raiders reúne detalles confirmados de Nintendo y el contexto de los Salmónidos de la serie Splatoon en general, para que los jugadores nuevos y veteranos puedan leer la cobertura de los encuentros rápidamente.",
+      "items": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "title": "Splatoon Raiders confirma a los Salmónidos como la facción enemiga",
+          "eyebrow": "Confirmado",
+          "description": "Los listados oficiales de la tienda de Nintendo sitúan las incursiones en torno a la lucha contra Salmónidos enemigos mientras se buscan tesoros por las Spirhalite Islands.",
+          "bullets": [
+            "Nintendo US indica que luchas contra oleadas de Salmónidos enemigos mientras realizas incursiones en las islas en busca de tesoros.",
+            "Nintendo AU describe el combate contra grandes grupos de enemigos en esta aventura de Splatoon centrada en el modo de un solo jugador.",
+            "Las páginas regionales oficiales sitúan consistentemente este combate en las Spirhalite Islands."
+          ]
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "title": "Splatoon Raiders se vincula con el contexto conocido de los Salmónidos en la serie",
+          "eyebrow": "Contexto de la serie",
+          "description": "Inkipedia describe a los Salmónidos como una especie anfibia similar al salmón y los principales antagonistas de Salmon Run en Splatoon 2 y Splatoon 3.",
+          "bullets": [
+            "Papel en la serie: antagonistas principales y enemigos de Salmon Run.",
+            "Nota sobre la especie: enemigos anfibios similares al salmón.",
+            "Las referencias principales al color de la tinta incluyen el verde oscuro en Splatoon 2 y el verde azulado oscuro en Splatoon 3."
+          ]
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "title": "Las discusiones de Splatoon Raiders utilizan familias de Salmónidos establecidas",
+          "eyebrow": "Tipos de enemigos",
+          "description": "Los jugadores veteranos pueden analizar rápidamente la cobertura de la revelación utilizando las agrupaciones estándar de familias de Salmónidos ya conocidas en la serie.",
+          "bullets": [
+            "Salmónidos menores: Chum, Smallfry, Cohock, Snatcher.",
+            "Grandes Salmónidos: Steelhead, Steel Eel, Scrapper, Stinger, Maws, Drizzler, Flyfish, Fish Stick, Flipper-Flopper, Slammin' Lid, Big Shot.",
+            "Salmónidos de eventos específicos: Goldie, Griller, Chinook, Mothership, Mudmouth.",
+            "Salmonidotes: Cohozuna, Horrorboros, Megalodontia, además de referencias al Triunvirato."
+          ]
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "title": "El combate de Splatoon Raiders responde a la presión de los Salmónidos con herramientas",
+          "eyebrow": "Ciclo de combate",
+          "description": "Nintendo posiciona al mecánico, los dispositivos, las armas de tinta y el apoyo del bot de Deep Cut como el equipo de respuesta para los encuentros de incursión repletos de Salmónidos.",
+          "bullets": [
+            "Rol jugable: el mecánico.",
+            "Equipo principal: dispositivos mecánicos y armas centradas en tinta.",
+            "Capa de apoyo: un miembro de Deep Cut realiza la incursión contigo a través de la configuración del Exploration Bot."
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
+      "title": "Bot acompañante de Splatoon Raiders",
+      "displayType": "accordion",
+      "intro": "Splatoon Raiders presenta al Exploration Bot como un compañero de incursión principal vinculado directamente al combate, el manejo de botín y el papel de campo de Deep Cut durante las expediciones a las islas.",
+      "items": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "title": "¿Cómo se llama el bot de Splatoon Raiders?",
+          "content": "Nintendo UK identifica al compañero como el Exploration Bot y lo presenta como una poderosa construcción que viaja con el mecánico en las incursiones.",
+          "bullets": [
+            "Nombre oficial: Exploration Bot.",
+            "Definición del rol oficial: una poderosa construcción.",
+            "Viaja con el mecánico durante las incursiones a las islas."
+          ]
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "title": "¿Qué hace el Exploration Bot de Splatoon Raiders?",
+          "content": "Nintendo afirma que el Exploration Bot ayuda a repeler enemigos y recolectar botín, convirtiéndolo en un sistema de apoyo práctico en el ciclo de incursiones.",
+          "bullets": [
+            "Apoyo en combate durante los encuentros con enemigos.",
+            "Ayuda en la recolección de botín durante las búsquedas de tesoros.",
+            "Integrado directamente en el ciclo de juego de búsqueda de tesoros."
+          ]
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "title": "¿Cómo conecta Splatoon Raiders al bot con Deep Cut?",
+          "content": "El texto oficial de la tienda explica que un miembro de Deep Cut realiza la incursión junto a ti en un bot poderoso, vinculando el apoyo del compañero con la presencia activa del trío en el campo.",
+          "bullets": [
+            "Un miembro de Deep Cut acompaña al mecánico durante las incursiones.",
+            "Deep Cut permanece activo más allá de las escenas de configuración del campamento.",
+            "El apoyo del bot es una parte clave de cómo el trío influye en la jugabilidad."
+          ]
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "title": "¿Cómo encaja el bot de Splatoon Raiders en la progresión?",
+          "content": "Nintendo UK vincula al compañero en un ciclo repetitivo de incursiones, regreso del botín al campamento, mejora del equipo y lanzamiento de la siguiente expedición.",
+          "bullets": [
+            "Incursión, recolección de botín, regreso al campamento, mejora de equipo y salida de nuevo.",
+            "El juego sigue centrado en un solo jugador, aunque admite hasta tres jugadores adicionales en línea o mediante comunicación inalámbrica local.",
+            "Esto mantiene al bot dentro del ritmo de progresión de salvamento a largo plazo."
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
+      "title": "Tamaño del archivo y especificaciones de Splatoon Raiders",
+      "displayType": "table",
+      "intro": "Los detalles prácticos de configuración de Splatoon Raiders se recopilan en una tabla de especificaciones para que los jugadores puedan confirmar rápidamente el almacenamiento, las opciones de juego, el soporte de idiomas y los requisitos en línea.",
+      "specs": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "spec": "Sistema",
+          "value": "Nintendo Switch 2"
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "spec": "Fecha de lanzamiento",
+          "value": "23 de julio de 2026"
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "spec": "Género",
+          "value": "Acción, Disparos"
+        },
+        {
+          "spec": "Tamaño de archivo estimado",
+          "value": "20 GB"
+        },
+        {
+          "spec": "Juego local",
+          "value": "1 jugador"
+        },
+        {
+          "spec": "Comunicación inalámbrica local",
+          "value": "2 - 4 jugadores"
+        },
+        {
+          "spec": "Juego en línea",
+          "value": "2 - 4 jugadores"
+        },
+        {
+          "spec": "Modos de juego compatibles",
+          "value": "Modo TV, Modo semiportátil, Modo portátil"
+        },
+        {
+          "spec": "Funciones de Nintendo Switch Online",
+          "value": "Juego en línea, Guardado en la nube"
+        },
+        {
+          "spec": "Requisito de suscripción en línea",
+          "value": "Se requiere una suscripción de pago a Nintendo Switch Online para el juego en línea."
+        },
+        {
+          "spec": "Nota sobre el guardado en la nube",
+          "value": "El guardado en la nube es compatible, y la página de Nintendo AU indica que se requiere una suscripción de pago a Nintendo Switch Online para usarlo."
+        },
+        {
+          "spec": "Nota sobre la configuración inalámbrica local",
+          "value": "Nintendo UK indica que el modo multijugador inalámbrico local requiere una consola y una copia del software por jugador."
+        },
+        {
+          "spec": "Nota sobre los controles",
+          "value": "Nintendo UK indica que el modo multijugador requiere un control compatible por jugador, y es posible que se necesiten controles adicionales."
+        },
+        {
+          "spec": "Nota sobre el almacenamiento",
+          "value": "Nintendo UK señala que puede ser necesario almacenamiento adicional según el modelo de hardware y la configuración."
+        },
+        {
+          "spec": "Idiomas (listado de la tienda de EE. UU.)",
+          "value": "Japonés, inglés británico, francés, alemán, italiano, español, coreano, neerlandés, chino simplificado, español latinoamericano, francés canadiense, chino tradicional, inglés estadounidense"
+        },
+        {
+          "spec": "Idiomas (listado de la tienda de AU)",
+          "value": "Japonés, inglés, francés, alemán, italiano, español, coreano, neerlandés, chino (simplificado), chino (tradicional)"
+        },
+        {
+          "spec": "Idiomas (listado de la tienda de UK)",
+          "value": "Japonés, inglés, español, francés, alemán, italiano, neerlandés, coreano, chino"
+        },
+        {
+          "spec": "Clasificación de EE. UU.",
+          "value": "ESRB: Violencia de fantasía"
+        },
+        {
+          "spec": "Clasificación de Australia",
+          "value": "Temas leves, Violencia, Interactividad y chat en línea"
+        },
+        {
+          "spec": "Clasificación de UK",
+          "value": "PEGI 7 (Miedo, Violencia)"
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
-      "steps": [
+      "title": "amiibo de Splatoon Raiders",
+      "displayType": "cards",
+      "intro": "El seguimiento de amiibo de Splatoon Raiders mantiene la alineación de Deep Cut, las fechas de lanzamiento, los identificadores y los listados oficiales de productos en un solo vistazo para coleccionistas y jugadores.",
+      "cards": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Shiver (Splatoon Raiders)",
+          "eyebrow": "amiibo de Deep Cut",
+          "description": "La nueva figura de Shiver utiliza su apariencia de Splatoon Raiders para la aventura de búsqueda de tesoros en las Islas Spirhalite.",
+          "bullets": [
+            "Fecha de lanzamiento: 23 de julio de 2026",
+            "Listado de la serie: Splatoon Raiders",
+            "SKU: 125231",
+            "UPC: 00045496894658",
+            "Nota del juego: Los detalles de la funcionalidad de Splatoon Raiders se anunciarán más adelante"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-shiver-splatoon-series-125231/"
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Frye (Splatoon Raiders)",
+          "eyebrow": "amiibo de Deep Cut",
+          "description": "La nueva figura de Frye muestra su atuendo de Splatoon Raiders y se vincula directamente con la misma expedición a las Islas Spirhalite.",
+          "bullets": [
+            "Fecha de lanzamiento: 23 de julio de 2026",
+            "Listado de la serie: Splatoon Raiders",
+            "SKU: 125230",
+            "UPC: 00045496894641",
+            "Nota del juego: Los detalles de la funcionalidad de Splatoon Raiders se anunciarán más adelante"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-frye-splatoon-series-125230/"
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
-        },
-        {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
-        },
-        {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Big Man (Splatoon Raiders)",
+          "eyebrow": "amiibo de Deep Cut",
+          "description": "La nueva figura de Big Man le da al productor mantarraya su apariencia de Splatoon Raiders para el viaje de búsqueda de tesoros con Deep Cut.",
+          "bullets": [
+            "Fecha de lanzamiento: 23 de julio de 2026",
+            "Listado de la serie: Splatoon Raiders",
+            "SKU: 125232",
+            "UPC: 00045496894665",
+            "Nota del juego: Los detalles de la funcionalidad de Splatoon Raiders se anunciarán más adelante"
+          ],
+          "href": "https://www.nintendo.com/us/store/products/amiibo-big-man-splatoon-series-125232/"
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Splatoon Raiders",
+    "titleHighlight": "Preguntas frecuentes",
+    "subtitle": "Respuestas rápidas a preguntas comunes sobre Splatoon Raiders",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Se enfoca Splatoon Raiders en el modo de un solo jugador?",
+        "answer": "Sí. Splatoon Raiders se posiciona como una aventura enfocada en un solo jugador con rutas opcionales de soporte multijugador."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cuál es la fecha de lanzamiento de Splatoon Raiders?",
+        "answer": "Nintendo actualmente lista Splatoon Raiders para el 23 de julio de 2026 en Nintendo Switch 2."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Soporta Splatoon Raiders el modo multijugador cooperativo?",
+        "answer": "Las páginas oficiales listan rangos de soporte inalámbrico local y en línea, además de la experiencia principal enfocada en un solo jugador."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Dónde puedo comprar Splatoon Raiders oficialmente?",
+        "answer": "Usa la página oficial de la tienda de Nintendo para tu región para consultar el estado actual de compra y preventa."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Cuáles son los módulos clave de Splatoon Raiders en esta página de inicio?",
+        "answer": "La página de inicio de Splatoon Raiders cubre la fecha de lanzamiento, tráileres, jugabilidad, preventa, precios, cooperativo, historia, personajes, armas, especificaciones y seguimiento de amiibo."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Recibirá Splatoon Raiders más actualizaciones oficiales antes del lanzamiento?",
+        "answer": "Sí. El lanzamiento de tráileres y las actualizaciones de la tienda oficial siguen siendo los canales principales para nuevos detalles confirmados."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para Splatoon Raiders?",
+    "description": "Sigue las actualizaciones oficiales y únete a la comunidad de Splatoon mientras rastreamos cada revelación confirmada de Splatoon Raiders.",
+    "joinCommunity": "Únete a r/Splatoon",
+    "joinGame": "Visita el sitio oficial"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Splatoon Raiders Wiki",
+    "description": "Tu centro de recursos para fans con noticias sobre la fecha de lanzamiento de Splatoon Raiders, tráileres, información cooperativa, personajes y guías de juego.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Noticias de Nintendo",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "steamCommunity": "Reddit",
+    "steamStore": "Sitio oficial",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
     "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyright": "© 2026 Splatoon Raiders Wiki. Sitio de fans no oficial y no afiliado con Nintendo.",
+    "disclaimer": "Splatoon Raiders y todos los activos relacionados son propiedad de Nintendo y sus respectivos dueños."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "release": {
+      "title": "Lanzamiento de Splatoon Raiders",
+      "description": "Sigue cada hito oficial del lanzamiento de Splatoon Raiders, actualizaciones de tiempos de salida y anuncios de Nintendo en una sola cronología.",
+      "metaTitle": "Lanzamiento de Splatoon Raiders - Cronología de fechas y actualizaciones de Nintendo",
+      "metaDescription": "Sigue la cobertura del lanzamiento de Splatoon Raiders con fechas confirmadas, eventos en la cronología y actualizaciones oficiales de Nintendo antes del estreno.",
+      "categoryLabel": "FECHA DE LANZAMIENTO Y NOTICIAS",
+      "whatIs": "¿Qué es la cobertura del lanzamiento de Splatoon Raiders?",
+      "whatIsDescription": "La cobertura del lanzamiento de Splatoon Raiders rastrea fechas confirmadas, hitos en la cronología, ventanas de lanzamiento y actualizaciones de estado oficiales de Nintendo.",
+      "why": "¿Por qué seguir las actualizaciones del lanzamiento de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Rastrea hitos confirmados",
+        "step1Description": "Mira cuándo se publicaron oficialmente los anuncios, ventanas de lanzamiento y confirmaciones de fechas.",
+        "step2Title": "Evita perderte nuevas actualizaciones",
+        "step2Description": "Obtén una cronología única para cambios en los tiempos de lanzamiento, páginas de la tienda y detalles del despliegue en plataformas.",
+        "step3Title": "Planifica tu preparación para el lanzamiento",
+        "step3Description": "Usa los puntos de control del lanzamiento para programar decisiones de preventa, preparación de almacenamiento y planificación de sesiones cooperativas."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "all": "Todos los artículos del lanzamiento de Splatoon Raiders"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "trailer": {
+      "title": "Tráiler de Splatoon Raiders",
+      "description": "Mira y analiza cada escena de los tráileres de Splatoon Raiders, momentos de revelación y pistas de jugabilidad del metraje oficial.",
+      "metaTitle": "Tráiler de Splatoon Raiders - Videos oficiales y desglose de escenas",
+      "metaDescription": "Revisa la cobertura de los tráileres de Splatoon Raiders con enlaces a videos oficiales, análisis de escenas y pistas de jugabilidad de cada entrega.",
+      "categoryLabel": "SEGUIMIENTO DE TRÁILERES",
+      "whatIs": "¿Qué es la categoría de Tráiler de Splatoon Raiders?",
+      "whatIsDescription": "La categoría de Tráiler de Splatoon Raiders se enfoca en revelaciones de videos oficiales, análisis de secuencias de tráileres y conclusiones de jugabilidad cuadro por cuadro.",
+      "why": "¿Por qué leer los desgloses de los tráileres de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Capta detalles visuales importantes",
+        "step1Description": "Detecta armas, islas, pistas de la interfaz y sistemas que son fáciles de pasar por alto en una primera vista rápida.",
+        "step2Title": "Compara la evolución de los tráileres",
+        "step2Description": "Rastrea cómo cambia el posicionamiento de Splatoon Raiders desde el metraje del anuncio hasta los tráileres de la ventana de lanzamiento.",
+        "step3Title": "Crea mejores expectativas",
+        "step3Description": "Separa las señales del metraje confirmado de la especulación basándote en las escenas oficiales de los tráileres."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "all": "Todos los artículos de tráileres de Splatoon Raiders"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "store": {
+      "title": "Tienda de Splatoon Raiders",
+      "description": "Compara el precio, ediciones, tamaño de archivo y rutas de compra en plataformas de Splatoon Raiders a través de Nintendo y listados de minoristas.",
+      "metaTitle": "Tienda de Splatoon Raiders - Precio, ediciones y guía de compra",
+      "metaDescription": "Usa el centro de la Tienda de Splatoon Raiders para precios, diferencias entre ediciones, tamaño de archivo, detalles de la tarjeta de juego y enlaces de compra.",
+      "categoryLabel": "PRECIO Y COMPRA",
+      "whatIs": "¿Qué es la categoría de Tienda de Splatoon Raiders?",
+      "whatIsDescription": "La cobertura de la Tienda de Splatoon Raiders explica dónde comprar, en qué se diferencian las ediciones, el tamaño de archivo esperado y qué revisar antes de pagar.",
+      "why": "¿Por qué usar las guías de la tienda de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Compara ediciones claramente",
+        "step1Description": "Revisa opciones digitales y físicas, diferencias de paquetes y notas de compra específicas de la plataforma.",
+        "step2Title": "Confirma costo y valor",
+        "step2Description": "Consulta capturas de precios, bonificaciones esperadas e impacto en el almacenamiento antes de realizar un pedido.",
+        "step3Title": "Elige la ruta de compra correcta",
+        "step3Description": "Encuentra la ruta más rápida para comprar a través de los canales oficiales de Nintendo o listados de minoristas compatibles."
       },
       "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "all": "Todos los artículos de la tienda de Splatoon Raiders"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "guide": {
+      "title": "Guía de Splatoon Raiders",
+      "description": "Aprende las mecánicas, los sistemas de progresión, el contexto de la historia y consejos prácticos para la exploración y el combate de Splatoon Raiders.",
+      "metaTitle": "Guía de Splatoon Raiders - Sistemas de juego, historia y consejos",
+      "metaDescription": "Lee nuestra cobertura de la guía de Splatoon Raiders para conocer mecánicas, flujo del mapa, contexto de la historia, consejos de progresión y tips de juego prácticos.",
+      "categoryLabel": "GUÍA DE JUEGO",
+      "whatIs": "¿Qué es la categoría de Guía de Splatoon Raiders?",
+      "whatIsDescription": "La categoría de Guía de Splatoon Raiders abarca ciclos de juego, navegación de mapas, contexto de la historia, información de clasificaciones y conocimientos básicos de progresión.",
+      "why": "¿Por qué leer las guías de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Aprende los sistemas básicos más rápido",
+        "step1Description": "Comprende el desplazamiento, el ritmo del combate y el flujo de las misiones antes de tu primera incursión seria en la isla.",
+        "step2Title": "Reduce errores tempranos",
+        "step2Description": "Utiliza consejos prácticos de configuración y rutas para evitar errores comunes durante la exploración y los encuentros.",
+        "step3Title": "Mantente listo para contenido nuevo",
+        "step3Description": "Mantente al día con los nuevos temas de la guía a medida que Nintendo revela más mecánicas y detalles de la ventana de lanzamiento."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de la guía de Splatoon Raiders"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "multiplayer": {
+      "title": "Multijugador de Splatoon Raiders",
+      "description": "Comprende los formatos cooperativos, recuento de jugadores, reglas en línea y configuración de sesiones inalámbricas locales de Splatoon Raiders.",
+      "metaTitle": "Multijugador de Splatoon Raiders - Modos cooperativos y configuración de sesiones",
+      "metaDescription": "Explora los detalles del multijugador de Splatoon Raiders, incluyendo la estructura cooperativa, límites de jugadores, juego en línea y configuración inalámbrica local.",
+      "categoryLabel": "COOPERATIVO Y MODOS",
+      "whatIs": "¿Qué es la categoría Multijugador de Splatoon Raiders?",
+      "whatIsDescription": "Los artículos de Multijugador de Splatoon Raiders se centran en la disponibilidad del modo cooperativo, la estructura de las partidas, los límites de jugadores y los modos de conexión.",
+      "why": "¿Por qué consultar las guías multijugador de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Elige el modo cooperativo adecuado",
+        "step1Description": "Compara las opciones en línea y locales para que tu grupo pueda elegir el formato de sesión más estable.",
+        "step2Title": "Prepara sesiones de equipo",
+        "step2Description": "Planifica los roles de los jugadores, las necesidades de hardware y los tiempos antes de comenzar largas incursiones en la isla.",
+        "step3Title": "Evita confusiones en el emparejamiento",
+        "step3Description": "Utiliza explicaciones claras de los modos para entender qué funciones admite el multijugador y qué aspectos se mantienen enfocados en solitario."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos del multijugador de Splatoon Raiders"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "customization": {
+      "title": "Personalización de Splatoon Raiders",
+      "description": "Revisa las opciones de peinado, atuendo y apariencia de Splatoon Raiders para construir tu propia identidad de mecánico.",
+      "metaTitle": "Personalización de Splatoon Raiders - Peinados, atuendos y apariencia",
+      "metaDescription": "Explora las guías de personalización de Splatoon Raiders para elegir peinados, opciones de atuendos y configuración de apariencia antes del lanzamiento.",
+      "categoryLabel": "OPCIONES DE PERSONALIZACIÓN",
+      "whatIs": "¿Qué es la Personalización de Splatoon Raiders?",
+      "whatIsDescription": "La Personalización de Splatoon Raiders cubre las elecciones de apariencia del jugador, las opciones de estilo y cómo la identidad visual encaja en la progresión.",
+      "why": "¿Por qué seguir el contenido de personalización de Splatoon Raiders?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Planifica el estilo de tu personaje",
+        "step1Description": "Compara opciones de peinado y atuendo para crear un look que se adapte a tu estilo de incursión preferido.",
+        "step2Title": "Entiende la progresión visual",
+        "step2Description": "Rastrea cómo la personalización se integra con el crecimiento del campamento, los desbloqueos de equipo y los hitos de la sesión.",
+        "step3Title": "Ahorra tiempo el día del lanzamiento",
+        "step3Description": "Usa guías de apariencia seleccionadas para decidir rápidamente en lugar de rehacer tu configuración después de cada partida."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de personalización de Splatoon Raiders"
+    },
+    "characters": {
+      "title": "Personajes de Splatoon Raiders",
+      "description": "Conoce a los personajes de Splatoon Raiders, incluidos los miembros de Deep Cut, el jefe de mecánicos y roles secundarios clave.",
+      "metaTitle": "Personajes de Splatoon Raiders - Deep Cut, Agent 4 y elenco principal",
+      "metaDescription": "Explora los perfiles de personajes de Splatoon Raiders que cubren a Deep Cut, Agent 4, roles principales y detalles del elenco vinculados a la historia.",
+      "categoryLabel": "ELENCO DE PERSONAJES",
+      "whatIs": "¿Qué es la categoría de Personajes de Splatoon Raiders?",
+      "whatIsDescription": "La cobertura de Personajes de Splatoon Raiders presenta a los miembros principales del elenco, resúmenes de roles y cómo cada personaje apoya la progresión de las incursiones.",
+      "why": "¿Por qué leer las guías de personajes de Splatoon Raiders?",
+      "whySteps": {
+        "step1Title": "Conoce cada rol fundamental",
+        "step1Description": "Entiende quién lidera la exploración, quién apoya en el combate y en qué aspectos cada personaje es más importante.",
+        "step2Title": "Sigue las relaciones de la historia",
+        "step2Description": "Rastrea cómo Deep Cut y el mecánico se conectan a través del contexto de las misiones y los eventos cambiantes de la isla.",
+        "step3Title": "Navega por contenido específico de personajes",
+        "step3Description": "Usa las páginas de perfil para encontrar rápidamente el artículo adecuado para cada personaje o miembro del escuadrón."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de personajes de Splatoon Raiders"
+    },
+    "media": {
+      "title": "Multimedia de Splatoon Raiders",
+      "description": "Encuentra recursos multimedia de Splatoon Raiders, incluidos archivos de logotipos, referencias de arte, canales comunitarios y centros de cobertura.",
+      "metaTitle": "Multimedia de Splatoon Raiders - Logotipo, arte, comunidad y cobertura",
+      "metaDescription": "Accede al contenido multimedia de Splatoon Raiders para obtener logotipos, arte, plataformas sociales, centros de fans y recursos de seguimiento de cobertura.",
+      "categoryLabel": "MULTIMEDIA Y COMUNIDAD",
+      "whatIs": "¿Qué es la categoría Multimedia de Splatoon Raiders?",
+      "whatIsDescription": "Multimedia de Splatoon Raiders recopila activos visuales, canales de plataformas y recursos de referencia utilizados por fans y creadores de contenido.",
+      "why": "¿Por qué usar los recursos multimedia de Splatoon Raiders?",
+      "whySteps": {
+        "step1Title": "Obtén referencias de activos confiables",
+        "step1Description": "Localiza logotipos, páginas de arte y referencias visuales para publicaciones, guías y proyectos comunitarios.",
+        "step2Title": "Sigue las plataformas de la comunidad",
+        "step2Description": "Sigue los espacios activos donde circulan diariamente clips, discusiones y actualizaciones de Splatoon Raiders.",
+        "step3Title": "Organiza las fuentes de cobertura",
+        "step3Description": "Usa un centro multimedia único para reunir canales de origen antes de escribir noticias, guías o contenido de resumen."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos multimedia de Splatoon Raiders"
     }
   }
 }

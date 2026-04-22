@@ -7,7 +7,7 @@ export function cn(...inputs: ClassValue[]) {
 
 /**
  * 从文章标题中提取主关键词（冒号之前的部分）
- * 例如："Heartopia PC Download: Complete Guide 2026" -> "Heartopia PC Download"
+ * 例如："Splatoon Raiders Release Date: Full Timeline 2026" -> "Splatoon Raiders Release Date"
  * 如果标题中没有冒号，返回完整标题
  */
 export function extractPrimaryKeyword(title: string): string {

@@ -114,10 +114,10 @@ def call_api(content: str, lang_name: str, config: dict, timeout: int = 120, ret
                 result = json.loads(resp.read().decode('utf-8'))
                 return result['choices'][0]['message']['content']
         except Exception as e:
-            print(f"    [retry {attempt}/{retries}] {e}")
+            print(f"    [retry {attempt}/{retries}] {e}", flush=True)
             if attempt < retries:
                 retry_wait = 5 * attempt
-                print(f"    [WAIT] 等待 {retry_wait}s 后重试...")
+                print(f"    [WAIT] 等待 {retry_wait}s 后重试...", flush=True)
                 time.sleep(retry_wait)
 
     return None
@@ -212,7 +212,13 @@ def translate_chunk_task(idx: int, total: int, chunk: dict, lang_name: str, conf
     print(f"    chunk {idx}/{total}: [{keys_preview}{suffix}] 开始", flush=True)
 
     chunk_json = json.dumps(chunk, ensure_ascii=False, indent=2)
-    result = call_api(chunk_json, lang_name, config)
+    result = call_api(
+        chunk_json,
+        lang_name,
+        config,
+        timeout=int(config.get('timeout', 120)),
+        retries=int(config.get('retry_attempts', 3)),
+    )
 
     if result:
         cleaned = clean_json_response(result)

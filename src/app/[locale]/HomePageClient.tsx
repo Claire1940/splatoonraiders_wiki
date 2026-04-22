@@ -97,6 +97,7 @@ export default function HomePageClient({
 }: HomePageClientProps) {
   const t = useMessages() as any
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.splatoonraiders.wiki'
+  const localizedPath = (path: string) => (locale === 'en' ? path : `/${locale}${path}`)
 
   // Structured data
   const structuredData = {
@@ -1008,7 +1009,7 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <Link
-                    href="/about"
+                    href={localizedPath('/about')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.about}
@@ -1016,7 +1017,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/privacy-policy"
+                    href={localizedPath('/privacy-policy')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.privacy}
@@ -1024,7 +1025,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/terms-of-service"
+                    href={localizedPath('/terms-of-service')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.terms}
@@ -1032,7 +1033,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/copyright"
+                    href={localizedPath('/copyright')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.copyrightNotice}
