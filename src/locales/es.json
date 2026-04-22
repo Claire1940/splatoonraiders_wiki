@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Guías",
-    "crafting": "Fabricación",
-    "items": "Objetos",
-    "biomes": "Biomas",
-    "building": "Construcción",
-    "support": "Soporte"
+    "release": "Release",
+    "trailer": "Trailer",
+    "store": "Store",
+    "guide": "Guide",
+    "multiplayer": "Multiplayer",
+    "customization": "Customization",
+    "characters": "Characters",
+    "media": "Media"
   },
   "common": {
     "home": "Inicio",

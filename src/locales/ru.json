@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "release": "Release",
+    "trailer": "Trailer",
+    "store": "Store",
+    "guide": "Guide",
+    "multiplayer": "Multiplayer",
+    "customization": "Customization",
+    "characters": "Characters",
+    "media": "Media"
   },
   "common": {
     "home": "Главная",

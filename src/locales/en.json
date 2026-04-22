@@ -10,7 +10,16 @@
       "twitterDescription": "Splatoon Raiders Wiki tracks release timing, trailers, co-op options, gameplay details, and official Nintendo updates."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "trailer": "Trailer",
+    "store": "Store",
+    "guide": "Guide",
+    "multiplayer": "Multiplayer",
+    "customization": "Customization",
+    "characters": "Characters",
+    "media": "Media"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -794,125 +803,165 @@
     "disclaimer": "Splatoon Raiders and all related assets are property of Nintendo and their respective owners."
   },
   "pages": {
-    "guides": {
-      "title": "Splatoon Raiders Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Splatoon Raiders Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Splatoon Raiders guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Splatoon Raiders Release",
+      "description": "Track every official Splatoon Raiders release milestone, launch timing update, and Nintendo announcement in one timeline.",
+      "metaTitle": "Splatoon Raiders Release - Date Timeline and Nintendo Updates",
+      "metaDescription": "Follow Splatoon Raiders release coverage with confirmed dates, timeline events, and official Nintendo updates before launch.",
+      "categoryLabel": "RELEASE DATE & NEWS",
+      "whatIs": "What is Splatoon Raiders Release coverage?",
+      "whatIsDescription": "Splatoon Raiders Release coverage tracks confirmed dates, timeline milestones, launch windows, and official status updates from Nintendo.",
+      "why": "Why follow Splatoon Raiders release updates?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Track Confirmed Milestones",
+        "step1Description": "See when announcements, launch windows, and date confirmations were officially published.",
+        "step2Title": "Avoid Missing New Updates",
+        "step2Description": "Get a single timeline for changes to launch timing, store pages, and platform rollout details.",
+        "step3Title": "Plan Your Launch Prep",
+        "step3Description": "Use release checkpoints to schedule pre-order decisions, storage prep, and co-op session planning."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Splatoon Raiders Release Articles"
     },
-    "crafting": {
-      "title": "Splatoon Raiders Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Splatoon Raiders Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Splatoon Raiders Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "trailer": {
+      "title": "Splatoon Raiders Trailer",
+      "description": "Watch and break down every Splatoon Raiders trailer scene, reveal beat, and gameplay clue from official footage.",
+      "metaTitle": "Splatoon Raiders Trailer - Official Videos and Scene Breakdown",
+      "metaDescription": "Review Splatoon Raiders trailer coverage with official video links, scene analysis, and gameplay clues from each release.",
+      "categoryLabel": "TRAILER WATCH",
+      "whatIs": "What is the Splatoon Raiders Trailer category?",
+      "whatIsDescription": "The Splatoon Raiders Trailer category focuses on official video reveals, trailer sequence analysis, and frame-by-frame gameplay takeaways.",
+      "why": "Why read Splatoon Raiders trailer breakdowns?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Catch Important Visual Details",
+        "step1Description": "Spot weapons, islands, UI cues, and systems that are easy to miss in a quick first watch.",
+        "step2Title": "Compare Trailer Evolution",
+        "step2Description": "Track how Splatoon Raiders positioning changes from announcement footage to release-window trailers.",
+        "step3Title": "Build Better Expectations",
+        "step3Description": "Separate confirmed footage signals from speculation by anchoring to official trailer scenes."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Splatoon Raiders Trailer Articles"
     },
-    "items": {
-      "title": "Splatoon Raiders Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Splatoon Raiders Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Splatoon Raiders including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "store": {
+      "title": "Splatoon Raiders Store",
+      "description": "Compare Splatoon Raiders price, editions, file size, and platform purchase routes across Nintendo and retail listings.",
+      "metaTitle": "Splatoon Raiders Store - Price, Editions, and Purchase Guide",
+      "metaDescription": "Use the Splatoon Raiders Store hub for pricing, edition differences, file size, game card details, and purchase links.",
+      "categoryLabel": "PRICE & PURCHASE",
+      "whatIs": "What is the Splatoon Raiders Store category?",
+      "whatIsDescription": "Splatoon Raiders Store coverage explains where to buy, how editions differ, expected file size, and what to check before checkout.",
+      "why": "Why use Splatoon Raiders store guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Compare Editions Clearly",
+        "step1Description": "Review digital and physical options, bundle differences, and platform-specific purchase notes.",
+        "step2Title": "Confirm Cost and Value",
+        "step2Description": "Check pricing snapshots, expected bonuses, and storage impact before you place an order.",
+        "step3Title": "Choose the Right Purchase Path",
+        "step3Description": "Find the fastest route to buy through official Nintendo channels or supported retail listings."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Splatoon Raiders Store Articles"
     },
-    "biomes": {
-      "title": "Splatoon Raiders Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Splatoon Raiders Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Splatoon Raiders biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "guide": {
+      "title": "Splatoon Raiders Guide",
+      "description": "Learn Splatoon Raiders mechanics, progression systems, story context, and practical tips for exploration and combat.",
+      "metaTitle": "Splatoon Raiders Guide - Gameplay Systems, Story, and Tips",
+      "metaDescription": "Read Splatoon Raiders guide coverage for mechanics, map flow, story context, progression advice, and practical gameplay tips.",
+      "categoryLabel": "GAMEPLAY GUIDE",
+      "whatIs": "What is the Splatoon Raiders Guide category?",
+      "whatIsDescription": "The Splatoon Raiders Guide category covers gameplay loops, map navigation, story context, ratings info, and core progression knowledge.",
+      "why": "Why read Splatoon Raiders guides?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Learn Core Systems Faster",
+        "step1Description": "Understand traversal, combat rhythm, and mission flow before your first serious island run.",
+        "step2Title": "Reduce Early Mistakes",
+        "step2Description": "Use practical setup and route tips to avoid common errors during exploration and encounters.",
+        "step3Title": "Stay Ready for New Content",
+        "step3Description": "Keep up with new guide topics as Nintendo reveals more mechanics and release-window details."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Splatoon Raiders Guide Articles"
     },
-    "building": {
-      "title": "Splatoon Raiders Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Splatoon Raiders Building - Qualia & Base Construction",
-      "metaDescription": "Master Splatoon Raiders building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "multiplayer": {
+      "title": "Splatoon Raiders Multiplayer",
+      "description": "Understand Splatoon Raiders co-op formats, player counts, online rules, and local wireless session setup.",
+      "metaTitle": "Splatoon Raiders Multiplayer - Co-op Modes and Session Setup",
+      "metaDescription": "Explore Splatoon Raiders multiplayer details including co-op structure, player limits, online play, and local wireless setup.",
+      "categoryLabel": "CO-OP & MODES",
+      "whatIs": "What is the Splatoon Raiders Multiplayer category?",
+      "whatIsDescription": "Splatoon Raiders Multiplayer articles focus on co-op availability, match structure, player limits, and connection modes.",
+      "why": "Why check Splatoon Raiders multiplayer guides?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Pick the Right Co-op Mode",
+        "step1Description": "Compare online and local options so your group can choose the most stable session format.",
+        "step2Title": "Prepare Team Sessions",
+        "step2Description": "Plan player roles, hardware needs, and timing before starting long island raid runs.",
+        "step3Title": "Avoid Matchmaking Confusion",
+        "step3Description": "Use clear mode explanations to understand what multiplayer supports and what remains solo-focused."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Splatoon Raiders Multiplayer Articles"
     },
-    "support": {
-      "title": "Splatoon Raiders Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Splatoon Raiders Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Splatoon Raiders including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "customization": {
+      "title": "Splatoon Raiders Customization",
+      "description": "Review Splatoon Raiders hairstyle, outfit, and appearance options for building your own mechanic identity.",
+      "metaTitle": "Splatoon Raiders Customization - Hairstyles, Outfits, and Appearance",
+      "metaDescription": "Browse Splatoon Raiders customization guides for hairstyle choices, outfit options, and appearance setup before launch.",
+      "categoryLabel": "CUSTOMIZATION OPTIONS",
+      "whatIs": "What is Splatoon Raiders Customization?",
+      "whatIsDescription": "Splatoon Raiders Customization covers player appearance choices, style options, and how visual identity fits progression.",
+      "why": "Why follow Splatoon Raiders customization content?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Plan Your Character Style",
+        "step1Description": "Compare hairstyle and outfit options to build a look that fits your preferred raid vibe.",
+        "step2Title": "Understand Visual Progression",
+        "step2Description": "Track how customization integrates with camp growth, gear unlocks, and session milestones.",
+        "step3Title": "Save Time on Launch Day",
+        "step3Description": "Use curated appearance guides to decide quickly instead of reworking your setup after each run."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Splatoon Raiders Customization Articles"
+    },
+    "characters": {
+      "title": "Splatoon Raiders Characters",
+      "description": "Meet Splatoon Raiders characters including Deep Cut members, the mechanic lead, and key supporting roles.",
+      "metaTitle": "Splatoon Raiders Characters - Deep Cut, Agent 4, and Core Cast",
+      "metaDescription": "Explore Splatoon Raiders character profiles covering Deep Cut, Agent 4, main roles, and story-linked cast details.",
+      "categoryLabel": "CHARACTER ROSTER",
+      "whatIs": "What is the Splatoon Raiders Characters category?",
+      "whatIsDescription": "Splatoon Raiders Characters coverage introduces major cast members, role summaries, and how each character supports raid progression.",
+      "why": "Why read Splatoon Raiders character guides?",
+      "whySteps": {
+        "step1Title": "Know Every Core Role",
+        "step1Description": "Understand who leads exploration, who supports combat, and where each character matters most.",
+        "step2Title": "Follow Story Relationships",
+        "step2Description": "Track how Deep Cut and the mechanic connect across mission context and evolving island events.",
+        "step3Title": "Navigate Character-Specific Content",
+        "step3Description": "Use profile pages to quickly find the right article for each character or squad member."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Splatoon Raiders Character Articles"
+    },
+    "media": {
+      "title": "Splatoon Raiders Media",
+      "description": "Find Splatoon Raiders media resources including logo files, art references, community channels, and coverage hubs.",
+      "metaTitle": "Splatoon Raiders Media - Logo, Art, Community, and Coverage",
+      "metaDescription": "Access Splatoon Raiders media content for logos, art, social platforms, fan hubs, and coverage tracking resources.",
+      "categoryLabel": "MEDIA & COMMUNITY",
+      "whatIs": "What is the Splatoon Raiders Media category?",
+      "whatIsDescription": "Splatoon Raiders Media collects visual assets, platform channels, and reference resources used by fans and content creators.",
+      "why": "Why use Splatoon Raiders media resources?",
+      "whySteps": {
+        "step1Title": "Get Reliable Asset References",
+        "step1Description": "Locate logos, art pages, and visual references for posts, guides, and community projects.",
+        "step2Title": "Track Community Platforms",
+        "step2Description": "Follow active spaces where Splatoon Raiders clips, discussions, and updates circulate daily.",
+        "step3Title": "Organize Coverage Inputs",
+        "step3Description": "Use one media hub to gather source channels before writing news, guides, or recap content."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Splatoon Raiders Media Articles"
     }
   }
 }
