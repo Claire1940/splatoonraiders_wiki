@@ -1,5 +1,5 @@
 import { getLatestArticles } from '@/lib/getLatestArticles'
-import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
+import type { ModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
 import type { Metadata } from 'next'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -71,7 +71,8 @@ export default async function HomePage({ params }: PageProps) {
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
-  const moduleLinkMap = await buildModuleLinkMap(locale as Language)
+  // Keep homepage module titles as plain text (no internal URL linking); lucide-react icons are rendered in HomePageClient.
+  const moduleLinkMap = {} as ModuleLinkMap
 
   return (
     <HomePageClient
