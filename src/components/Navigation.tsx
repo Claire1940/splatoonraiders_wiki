@@ -113,11 +113,9 @@ export default function Navigation({ navPreviewData, wikiLinks }: NavigationProp
 						href="/"
 						className="flex items-center space-x-2 hover:opacity-80 transition"
 					>
-						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-xl">
-							L
-						</div>
-						<span className="font-bold text-lg hidden sm:inline">Lucid Blocks</span>
-						<span className="font-bold text-lg sm:hidden">LB</span>
+						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-xl">S</div>
+						<span className="font-bold text-lg hidden sm:inline">Splatoon Raiders</span>
+						<span className="font-bold text-lg sm:hidden">SR</span>
 					</Link>
 
 					{/* Desktop Navigation */}
