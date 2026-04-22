@@ -1,25 +1,17 @@
 import { getRequestConfig } from 'next-intl/server'
-import { routing, type Locale } from './routing'
 import deepMerge from 'deepmerge'
+import { routing, type Locale } from './routing'
 
 // 静态导入所有翻译文件
 import enMessages from '@/locales/en.json'
-import ruMessages from '@/locales/ru.json'
-import ptMessages from '@/locales/pt.json'
-import deMessages from '@/locales/de.json'
-import esMessages from '@/locales/es.json'
 import jaMessages from '@/locales/ja.json'
-import trMessages from '@/locales/tr.json'
+import esMessages from '@/locales/es.json'
 import frMessages from '@/locales/fr.json'
 
 const messages: Record<string, any> = {
 	en: enMessages,
-	ru: ruMessages,
-	pt: ptMessages,
-	de: deMessages,
-	es: esMessages,
 	ja: jaMessages,
-	tr: trMessages,
+	es: esMessages,
 	fr: frMessages,
 }
 
