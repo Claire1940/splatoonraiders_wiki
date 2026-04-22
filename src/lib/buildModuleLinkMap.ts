@@ -26,34 +26,34 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
   lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
   lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  lucidBlocksSteamDeckAndController: { field: 'items', nameKey: 'title' },
+  lucidBlocksSettingsAndAccessibility: { field: 'items', nameKey: 'title' },
+  lucidBlocksUpdatesAndPatchNotes: { field: 'specs', nameKey: 'spec' },
+  lucidBlocksCrashFixAndTroubleshooting: { field: 'cards', nameKey: 'title' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['release date', 'launch day', 'trailer', 'leaks', 'trademark', 'cancelled'],
+  lucidBlocksApotheosisCrafting: ['trailer', 'announcement', 'reveal', 'nintendolife', 'ign', 'twitter'],
+  lucidBlocksToolsAndWeapons: ['gameplay', 'walkthrough', 'genre', 'details', 'map', 'demo'],
+  lucidBlocksStorageAndInventory: ['pre order', 'amazon', 'game card', 'switch 2 bundle', 'file size', 'gameshare'],
+  lucidBlocksQualiaAndBaseBuilding: ['price', 'digital', 'physical', 'amazon', 'switch 2 bundle', 'game card'],
+  lucidBlocksWorldRegions: ['multiplayer', 'coop', 'online', 'local', 'turf war', 'gameshare'],
+  lucidBlocksCreaturesAndEnemies: ['news', 'updates', 'leaks', 'trademark', 'twitter', 'reddit'],
+  lucidBlocksMobilityGear: ['story', 'lore', 'spiralite islands', 'details', 'map', 'single player'],
+  lucidBlocksFarmingAndGrowth: ['deep cut', 'shiver', 'frye', 'big man', 'agent 4', 'inkling'],
+  lucidBlocksBestEarlyUnlocks: ['customization', 'hairstyles', 'outfits', 'main character', 'engineer', 'octoling'],
+  lucidBlocksAchievementTracker: ['weapons', 'rollers', 'salmonids', 'combat', 'exploration bot', 'guide'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['spiralite islands', 'cyclone', 'map', 'story', 'lore', 'details'],
+  lucidBlocksSteamDeckAndController: ['salmonids', 'enemy', 'combat', 'turf war', 'coop', 'guide'],
+  lucidBlocksSettingsAndAccessibility: ['exploration bot', 'companion', 'mechanic', 'deep cut', 'gadget', 'engineer'],
+  lucidBlocksUpdatesAndPatchNotes: ['file size', 'storage', 'switch 2', 'game card', 'languages', 'online'],
+  lucidBlocksCrashFixAndTroubleshooting: ['amiibo', 'shiver', 'frye', 'big man', 'release date', 'collectible'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['splatoon', 'raiders', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "Splatoon Raiders")
+  const strippedQuery = normalizedQuery.replace(/splatoon raiders?\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/splatoon raiders?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
