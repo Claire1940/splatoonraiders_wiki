@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Nintendo Switch 2 Splatoon Spin-Off",
+    "title": "Splatoon Raiders",
+    "description": "Track the release date, latest trailer, co-op details, characters, weapons, islands, amiibo, price, and every confirmed Nintendo update for Splatoon Raiders.",
+    "getFreeCodesCTA": "Watch Trailer",
+    "playOnSteamCTA": "Official Site",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Jul 23, 2026",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4",
+        "label": "Max Co-op Players"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "$49.99",
+        "label": "US Digital Price"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "20 GB",
+        "label": "Est. File Size"
       }
     }
   },
@@ -784,27 +784,27 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for Splatoon Raiders?",
+    "description": "Follow official updates and join the Splatoon community while we track every confirmed Splatoon Raiders reveal.",
+    "joinCommunity": "Join r/Splatoon",
+    "joinGame": "Visit Official Site"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Splatoon Raiders Wiki",
+    "description": "Your fan resource hub for Splatoon Raiders release date news, trailers, co-op info, characters, and gameplay guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Nintendo News",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "Official Site",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Splatoon Raiders Wiki. Unofficial fan site and not affiliated with Nintendo.",
+    "disclaimer": "Splatoon Raiders and all related assets are property of Nintendo and their respective owners."
   },
   "pages": {
     "guides": {
